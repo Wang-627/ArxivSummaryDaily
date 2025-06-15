@@ -18,7 +18,6 @@ SEARCH_CONFIG = {
 
 # 固定搜索查询 - 领域
 CATEGORIES = [
-    "cond-mat.supr-con",  # 超导物理
     "cond-mat.str-el",    # 强关联电子系统
     "cond-mat.mtrl-sci",   # 材料科学
     "cond-mat.mes-hall",  # 量子霍尔效应
