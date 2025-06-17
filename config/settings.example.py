@@ -33,7 +33,7 @@ LLM_CONFIG = {
     'api_key': "YOUR_API_HERE",                                             # 在这里输入API密钥
     'model': 'google/gemini-2.0-flash',                                            # 模型名称
     # 'model': 'google/gemini-2.5-pro-preview',
-    'api_url': "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY",   # API基础URL
+    'api_url': "https://generativelanguage.googleapis.com/v1beta/openai/",   # API基础URL
     'temperature': 0.5,                                                     # 温度参数
     'max_output_tokens': 32648,                                             # 最大输出长度
     'top_p': 0.8,                                                           # Top P 参数
