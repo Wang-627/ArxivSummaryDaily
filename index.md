@@ -3,12 +3,12 @@ layout: default
 title: Arxiv论文总结报告
 ---
 
-[查看所有摘要归档](archive.md) | 更新日期: 2026-11-11
+[查看所有摘要归档](archive.md) | 更新日期: 2026-11-12
 
 # Arxiv论文总结报告
 
 ## 基本信息
-- 生成时间：2026-11-11 19:47:36
+- 生成时间：2026-11-12 20:27:38
 - 使用模型：gemini-2.0-flash
 - 论文数量：200 篇
 
@@ -441,19 +441,19 @@ arXiv链接：https://arxiv.org/pdf/2611.13089v1
 ---
 
 论文 48：
-标题：Categorical RMT
-作者：Chuanxin Cui, Kristan Jensen, Sridip Pal, Moshe Rozali
+标题：Chiral Superconductivity Indifferent to Parent Topology in the Square-Lattice Hofstadter-Hubbard Model
+作者：Jia-Xin Zhang, Wen O. Wang, Leon Balents, Lucile Savary, D. N. Sheng
 发布日期：2026-11-09
-arXiv链接：https://arxiv.org/pdf/2611.13093v1
+arXiv链接：https://arxiv.org/pdf/2611.13091v1
 研究目的：[生成失败: API 调用失败: ]
 主要发现：[生成失败: API 调用失败: ]
 ---
 
 论文 49：
-标题：Chiral Superconductivity Indifferent to Parent Topology in the Square-Lattice Hofstadter-Hubbard Model
-作者：Jia-Xin Zhang, Wen O. Wang, Leon Balents, Lucile Savary, D. N. Sheng
+标题：Categorical RMT
+作者：Chuanxin Cui, Kristan Jensen, Sridip Pal, Moshe Rozali
 发布日期：2026-11-09
-arXiv链接：https://arxiv.org/pdf/2611.13091v1
+arXiv链接：https://arxiv.org/pdf/2611.13093v1
 研究目的：[生成失败: API 调用失败: ]
 主要发现：[生成失败: API 调用失败: ]
 ---
