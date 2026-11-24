@@ -3,12 +3,12 @@ layout: default
 title: Arxiv论文总结报告
 ---
 
-[查看所有摘要归档](archive.md) | 更新日期: 2026-11-23
+[查看所有摘要归档](archive.md) | 更新日期: 2026-11-24
 
 # Arxiv论文总结报告
 
 ## 基本信息
-- 生成时间：2026-11-20 20:41:50
+- 生成时间：2026-11-24 22:43:02
 - 使用模型：gemini-2.0-flash
 - 论文数量：200 篇
 
@@ -18,6 +18,1734 @@ title: Arxiv论文总结报告
 
 
 论文 1：
+标题：Quantum-geometry-tuned Mott transition and emergent heavy fermions in a topological flat band
+作者：Ya-Hui Zhang
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31242v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 2：
+标题：A Fractional Chern Semimetal: Exact Wavefunction and Conformal Criticality
+作者：Fa-Jie Wang, Yang Qi, Zhi-Da Song
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31234v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 3：
+标题：Solute-Aware Stochastic Korhonen Model of Electromigration in Wide vs Near-Bamboo Al-Cu Lines
+作者：Narahara Chari Dingari, David R. Heskett
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31206v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 4：
+标题：Protected Charge Readout Scheme Utilizing Nonlinear Resonators
+作者：Andrea Cicovic, Harald Havir, Pierre Glidic, Samuel Andersson, Sebastian Lehmann, Kimberly A. Dick, Claes Thelander, Ville F. Maisi
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31144v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 5：
+标题：Anomalous Field-induced Coherence beyond Single-ion Kondo Physics
+作者： Arushi, Konstantin Semeniuk, Manuel Brando, Javier F. Landaeta, Elena Hassinger, Christoph Geibel
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31137v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 6：
+标题：Lincege.jl: LINked Cluster Expansions on a GEneral GEometry
+作者：Pranav Seetharaman, Francisco Correia, Ehsan Khatami
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31102v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 7：
+标题：Quantum and classical transport in the underscreened Kondo lattice
+作者：Leo Pintar, Don Rolih, Rok Žitko
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31093v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 8：
+标题：LeIFF: A localized-electron and ion force field for coupled nuclear and electronic dynamics
+作者：Anthony Mannino, Isidro Losada, Simon Divilov, Michelle Fritz, Younos Hashem, Ashraf Mrabet, Paula Mori Sánchez, Javier Junquera, Mariví Fernández-Serra, Jose M. Soler
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31029v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 9：
+标题：Self-consistent Floquet theory of steady-state ordering in driven open systems
+作者：Srinjoy Ghosh, Babak Seradjeh, Arijit Kundu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30996v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 10：
+标题：Terahertz detection of magnon chirality in polycrystalline CsCuCl$\_3$
+作者：Juan S. Rodríguez-Hernández, Gabriel F. Freitas, Nicolas M. Kawahala, Rafael S. Freitas, Felix G. G. Hernandez
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30992v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 11：
+标题：Interface-Engineered Piezoelectricity and Electromechanical Coupling in Two-Dimensional van der Waals Heterostructures
+作者：Shivanand Yadav, Raihan Ahammed, Umer Ali, B. S. Bhadoria, Yogesh S. Chauhan, Amit Agarwal, Somnath Bhowmick
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30974v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 12：
+标题：Magneto-ARPES as a direct probe of Berry Curvature and the Orbital Magnetic Moment
+作者：Seohyun Kong, Bernd Braunecker, Luke C. Rhodes
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30968v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 13：
+标题：Generalized dielectric-dependent hybrid functional combining Gaussian and Yukawa screening
+作者：Alexey Tal, Fabien Tran, Wei Chen, Stefan Riemelmoser, Alfredo Pasquarello
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30930v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 14：
+标题：Dirac-like bands and weak-field transverse transport in ABA trilayer graphene
+作者：Agustin Montemurro, Fujia Lu, Ellis R. Huntley, Vladimir Fal'ko
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30924v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 15：
+标题：Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods
+作者：Antonio Lorenzo Mariano, Jacopo Lupi, Emilio Lorini, Matteo Briganti
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30917v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 16：
+标题：Interaction-driven ordering of multiple pseudospins and anomalous Hall metals in Bernal-stacked graphene
+作者：Jeonghyeon Suh, Kyungjin Shin, Hongki Min
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30906v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 17：
+标题：Exponential advantage in quantum observation with one extra qubit
+作者：Zhenyu Du, Xiongfeng Ma, Vlatko Vedral, Jinzhao Sun
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30876v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 18：
+标题：Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure
+作者：Ilteris K. Turan, Jonathan Agrinya, Walter R. L. Lambrecht
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30865v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 19：
+标题：Gallium at germanium surfaces: links to superconducting films and correlated adatom lattices
+作者：Peter Jacobson
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30809v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 20：
+标题：Multipartite entanglement structure of crystal quenches
+作者：Paul Gaudin, Clément Berthière
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30795v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 21：
+标题：Perfect Spin-to-Charge Signal Conversion via Inverse Spin Hall Effect in a Superconductor
+作者：Rodrigo de las Heras, Ilya V. Tokatly, F. Sebastian Bergeret
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30781v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 22：
+标题：Janus Asymmetry Unlocks Rashba Spintronics and Chiral Phononics in Two-Dimensional Carbo-Chalcogenides
+作者：Valentina Barreca, Giorgio Sangiovanni, Giovanni Cantele, Ludovica Zullo
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30767v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 23：
+标题：Aharonov-Bohm oscillations in transport through interacting quantum dots
+作者：Oliver Oing, Alexander Hahn, Jürgen König, Alfred Hucht
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30753v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 24：
+标题：Two-dimensional Thyristor
+作者：Purbasha Ray, Rupali Verma, Biswajeet Nayak, Suman Kumar Chakraborty, Mayank Shrivastava, Prasana Kumar Sahoo
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30748v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 25：
+标题：All-in-one Spintronic Sensory Neurons for Magnetic Edge Intelligence
+作者：Jiajia Jian, Bin Rong, Jiaxin Liu, Fangyi Zhao, Kai Li, Tao Huang, Xue Zhou, Xin Yue, Zeyu Ma, Xuefeng Zheng, Weidong Zhang, Jian Fu Zhang, Yumeng Yang, Zheng Chai
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30740v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 26：
+标题：The effect of isotopically-enriched 70Ge on the Raman scattering in Cr2Ge2Te6
+作者：Grzegorz Krasucki, Katarzyna Olkowska-Pucko, Tomasz Woźniak, Mihai I. Sturza, Holger Kohlmann, Adam Babiński, Maciej R. Molas
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30688v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 27：
+标题：Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$\_3$ thin films
+作者：Aditya Mehta, Soumyakanta Panda, Pratik Sahu, Amit Chauhan, Dibyajyoti Sahoo, Shwetha G Bhat, Rohit Soni, Goutam Tripathy, Niharika Mohapatra, B. R. K. Nanda, D. Samal
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30681v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 28：
+标题：Coupled Altermagnetic and Valley Physics in Monolayer VBiSe$\_3$
+作者：Divyanshi Tyagi, Saswata Bhattacharya
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30649v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 29：
+标题：Electric Field Assisted Charge Transfer Mediated Electronic Coupling in Ferromagnetic/Multiferroic Hetero-structure
+作者：Subho Saha, Sourav Chowdhury, Suryakanta Mondal, Kartick Biswas, Deepak Prajapat, Andrei Gloskovskii, Suresh Bharadwaj, Mukul Gupta, Pavan Nukala, Bhagwati Prasad, Ram Janay Choudhary
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30598v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 30：
+标题：Asymmetrical transport distribution function: skewness as a key to enhance thermoelectric performance
+作者：Jin-Cheng Zheng
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30565v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 31：
+标题：Femtosecond laser-controlled production of functional titanium niobate layers from TiO$\_{2}$/Nb$\_{2}$O$\_{5}$ powders
+作者：Gonzalo Gomez-Munoz, Aarón Calvo-Villoslada, Inmaculada Álvarez-Serrano, María Luisa López, Paloma Fernández, Javier Solis, Belén Sotillo
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30549v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 32：
+标题：Correlated chemical and displacive disorder in a lithium-rich disordered rocksalt revealed by electron diffuse scattering
+作者：Sam Y. Thompson, Kristoffer A. H. Støckler, Nikolaos Zacharakis, Rebekka Klemmt, Ella M. Schmidt, Sandro Wieser, Nico Unglert, Jørgen Skibsted, Espen D. Bøjesen, Georg K. H. Madsen, Bo B. Iversen, Dorthe B. Ravnsbæk
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30537v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 33：
+标题：Metal-Dielectric Bilayer Supported Nanoporous Silver Substrates for Ultrasensitive Surface-Enhanced Raman Scattering
+作者：Maryam Naseer, Anastasiia Sapunova, Ali Douaki, Vincenzo Caligiuri, Silvia Dante, Denis Garoli, Roman Krahne
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30536v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 34：
+标题：1.2 dB Insertion Loss in a Monolithically Integrated Silicon Mach-Zehnder Optical Isolator Using Stoichiometric Ce:YIG
+作者：Zhenyuan Ren, Di Wu, Tianchi Zhang, Yizhi Chen, Junxian Wang, Zixuan Wei, Jun Qin, Lei Bi
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30501v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 35：
+标题：Universal stabilizer correlations in chaotic eigenstates
+作者：Zhi-Han Liu, Hao-Yue Qi, Wei Zheng
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30485v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 36：
+标题：Liouvillian Quasiparticle Spectroscopy
+作者：Kai Li, Masahito Ueda
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30441v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 37：
+标题：Scanning nanowire quantum dot with radio-frequency read-out
+作者：Aurèle Kamber, Luca Forrer, Valentina Zannier, Fabio Beltram, Lucia Sorba, Martino Poggio, Floris Braakman
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30427v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 38：
+标题：Neutron Spin Resonance as Probe of Triplet Pair Density Waves in CeCoIn$\_5$
+作者：David W. Tam, Ilaria Maccari, Stéphane Raymond, Barry Winn, Paul Steffens, Arno Hiess, Jacques Ollivier, Dariusz Jakub Gawryluk, Ekaterina Pomjakushina, Aline Ramires, Michel Kenzelmann
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30395v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 39：
+标题：Gyroidal Magnetic Order with Weyl Magnons
+作者：Kiyu Fukui, Yukitoshi Motome
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30374v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 40：
+标题：Critical Topology: A New Perspective for Phase Transitions
+作者：Xue-Jia Yu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30368v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 41：
+标题：Manipulation of Ferroelectric Polarization Under Near-Gap Light
+作者：Hanli Cui, Jian Zhou
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30359v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 42：
+标题：Strain-Induced Tetragonal-to-Cubic Transition in MAPbI$\_3$ from Machine-Learned Molecular Dynamics
+作者：Daan Holleman, Luuk Klein Nagelvoort, Monica Morales-Masis, Linn Leppert
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30348v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 43：
+标题：High-Throughput Screening of Phononic Bandgap in Experimentally Realized Materials
+作者：Mohammad Bagheri, Kameyab Raza Abidi, Pekka Koskinen
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30344v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 44：
+标题：Edge-asymmetric magnetism in semi-Dirac quantum dots
+作者：Mustafa Polat
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30343v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 45：
+标题：Atomistic insight into defect-mediated boron redistribution and high-temperature strengthening in TiAl alloys
+作者：Xiang Meng, Shuhei Shinzato, Zhiqiang Zhao, Linfeng Yu, Jian Guo, Liangli Chu, Kepeng Ouyang, Shigenobu Ogata, Zhuhua Zhang
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30330v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 46：
+标题：Spin-controlled thermophase and noise-optimized thermometry in multiorbital quantum dots
+作者：Markus Plautz, Jeroen Danon, Jacob Linder
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30315v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 47：
+标题：Anatomy of orbital and spin responses in GaAs and Si: Hall, inverse Faraday, and magneto-optical Kerr effects
+作者：Sanaz Alikhah, Daegeun Jo, Peter M. Oppeneer
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30297v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 48：
+标题：Apparent thermal conductivity governed by interface-injected phonon spectra
+作者：D. G. Jeong, Terumasa Tadano, J. S. Lee
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30276v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 49：
+标题：A response-based self-energy from equation-of-motion coupled-cluster theory and its reduction to GW, GW+SOSEX, and GF2
+作者：Ajith Perera, Pierre-François Loos
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30263v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 50：
+标题：Accelerating interatomic potential development through student-driven exploration and reliability-aware distillation
+作者：Ruiqi Dong, Haotian Huang, Yubin Hu, Guixiang Zeng
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30229v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 51：
+标题：Quantum Geometry Effects in Lattice Dynamics
+作者：Haoshu Li, Hao Chen, Qian Niu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30210v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 52：
+标题：Strain-driven terahertz phase modulation in piezoelectric and nonlinear optical crystals: mechanisms, material developments, and modulation strategies
+作者：Aarifa Muhammed Ashraf, Rajaboopathi Mani
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30194v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 53：
+标题：Quantum simulation of low-temperature impurity models
+作者：Jiaqing Jiang, Nathan Ju
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30187v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 54：
+标题：Generation and non-thermal annealing of dislocations and atomic-scale roughness by nonlinear surface acoustic waves
+作者：Yuan Xu, Maxim V. Shugaev, Leonid V. Zhigilei
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30160v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 55：
+标题：A Unified Energy-Density Framework for Moiré Interface Energetics and Mechanics
+作者：Zhangke Lei, Weidong Yan, Zhicheng Feng, Wengen Ouyang
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30152v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 56：
+标题：Projecting Fermions into Exact Scar Towers: Local Protection across Phase Transitions
+作者：Wenjie Wei, Kun Jiang, Hui-Ke Jin
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30143v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 57：
+标题：Indentation-induced polar domain reconfiguration in the charge-density-wave semiconductor EuTe4
+作者：Hidefumi Takahashi, Yuki Umewaka, Kiichiro Yoshida, Ritsuto Nakamura, Akitoshi Nakano, Takao Matsumura, Daiki Sekine, Masakazu Matsubara, Masayuki Ochi, Shintaro Ishiwata
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30121v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 58：
+标题：Valence band, electron correlation, and possible temperature dependent change in the electronic structure near $E\_F$ of a candidate of ambient-pressure nickelate superconductors Sr$\_3$Ni$\_2$O$\_5$Cl$\_2$
+作者：Ryota Goban, Daiki Ootsuki, Kenichi Ozawa, Akira Yasui, Masayuki Ochi, Kazuhiko Kuroki, Ryo Matsumoto, Kensei Terashima, Yoshihiko Takano, Yuji Muraoka, Takayoshi Yokoya
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30088v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 59：
+标题：NEP-Spin: A spin-dependent neuroevolution potential for large-scale spin--lattice simulations
+作者：Chengbing Chen, Zheyong Fan, Ben Xu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30076v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 60：
+标题：Stable but Hidden: Identifiability and Experimental Design under Missing Compositional Support
+作者：Harry Sevi, Joonatan E. M. Laulainen
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30070v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 61：
+标题：Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery
+作者：Harry Sevi, Joonatan E. M. Laulainen
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30066v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 62：
+标题：Solids activated by multi-body nonreciprocity
+作者：Brady Wu, Daniel S. Seara, Qinghao Mao, Vincenzo Vitelli, Heinrich M. Jaeger
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30058v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 63：
+标题：Domain advantage in two-dimensional quantum-device design with multi-modal agentic harness
+作者：Shenhao Miao, Yizhou Li, Liqiao Xia, Ruihao Liu, Dingke Wang, Pablo Jarillo-Herrero, Eli Zeldov, Jiaqi Cai
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30043v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 64：
+标题：Geometric Polarization-Virial Theorems for Field-Induced Dipolar Interactions and Force Reversal
+作者：Shuze Zhu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30039v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 65：
+标题：Nonmonotonic In-Plane Thermal Transport in Metal-Embedded Graphitic Carbon Nitride
+作者：Wenwu Jiang, Hekai Bu, Wei Qiu, Yong Ni
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30015v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 66：
+标题：Pseudo-Altermagnetism in Non-Hermitian Systems
+作者：Chang-Yin Ji, Runze Li, Zhi-Ming Yu, Yugui Yao
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.29976v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 67：
+标题：Pyroelectric Harvesting from Steady Heat Sources via Active Piezoelectric Thermal Switching
+作者：Jun Usami, Yuki Okamoto, Shimpei Saito, Saeko Tachikawa, Soumei Baba, Takeshi Fujii, Sucheta Gorwadkar, Natsumi Makimoto, Takeshi Kobayashi
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.29928v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 68：
+标题：Unveiling the Complex high-pressure phases of Sodium at the Melting Curve Minimum via Data-Drive Crystal Structure Prediction
+作者：Zhenyu Wang, Chengqian Zhang, Xiaoyang Wang, Haiyang Niu, Jian Lv, Han Wang
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.29889v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 69：
+标题：Sondheimer oscillations in Weyl semimetal films
+作者：Lucas Méchet, Louis-Thomas Gendron, Ion Garate
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.29875v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 70：
+标题：Electric polarizabilities with phaseless auxiliary-field quantum Monte Carlo
+作者：Leon Otis, Jo Kurian, James Shee
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.29858v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 71：
+标题：Inferring Experimental Objectives in Microscopy Experiments from Decision Traces
+作者：Kamyar Barakati, Boris N. Slautin, Aditya Raghavan, Babita Babita, Surya Prakash Reddy, Jordan Marshall, Munireach Nannory, Stephen Puplampu, Alla Slautina, Faith M. Hines, Newsha Javanmardi, Sergei V. Kalinin
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29814v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 72：
+标题：Exact many-body scars of generic spin models from singlet covers
+作者：Camilla Polvara, William Witczak-Krempa
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29754v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 73：
+标题：Giant magnetic anisotropy in layered polar metal Sr$\_3$Co$\_2$O$\_7$ from Charge-disproportionation orbital unquenching
+作者：Houssam Sabri, Hong-Fei Huang, Jie-Xiang Yu, Jiadong Zang
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29742v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 74：
+标题：A Theoretical Investigation of Magnetic Susceptibility Measurement of Diamagnetic Liquids Using a Michelson Interferometer
+作者：David Shulman
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29671v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 75：
+标题：Kinetic inductance of two-dimensional viscous electron fluid
+作者：A. A. Grigorev, A. N. Afanasiev
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29645v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 76：
+标题：MagPot: A magnetoelastic potential generator for molecular dynamics simulations
+作者：P. Nieves, I. Korniienko, S. Arapan, A. Fraile, R. Iglesias, D. Legut
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29574v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 77：
+标题：Ballistic propagation-mediated super-resolution light-element imaging: in-situ tracking dynamic hydrogen migration
+作者：Zhiyao Liang, Feng Liu, Linyuan Chen, Zhiwei Lv, Shiya Chen, Xinyu Liao, Yuzhou He, Yi Wang, Pengpeng Liu, Hua Bing Tao, Nianpeng Lu, Changlin Zheng, Yang Sun, Qinghua Zhang, Rafal E. Dunin-Borkowski, Xian-Kui Wei
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29563v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 78：
+标题：AmorphGen: A Python package for amorphous structure generation with machine-learning and classical interatomic potentials
+作者：Chaiyawat Kaewmeechai, Louie Slocombe, Alexis G. Manche, David O. Scanlon
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29539v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 79：
+标题：Engineering strategies for high-performance self-powered zinc oxide (ZnO) ultraviolet photodetectors: a design-oriented review
+作者：Eka Nurfani, Keysya C. A. Putri, Tarmizi Taher, Aditya Rianjanu, Muhamad F. Arif
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29515v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 80：
+标题：FlakeForge: automated lithography-ready device layout from optical images of exfoliated van der Waals flakes
+作者：Or Berman, Ilay Mangel
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29509v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 81：
+标题：Ground-State Manifold Curvature and Phase Transitions in the Kitaev Honeycomb Model
+作者：Omid Yahyayi Monem, Setare Bashari, Hosein Mohammadzadeh
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29495v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 82：
+标题：Population of spin orbit-split-electron branches in semimetallic HgTe quantum wells
+作者：G. M. Minkov, O. E. Rut, A. A. Sherstobitov, A. V. Germanenko, S. A. Dvoretski, N. N. Mikhailov
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29487v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 83：
+标题：Fully solid-state all-2D micro-supercapacitors for on-chip energy storage
+作者：Bar Favelukis, Andreas Furchner, Barak Ratzker, Yiftach Kushnir, Asaf Nitsan, Rebeca Miyar, Yugal Rathod, Alexander Upcher, Nitzan Maman, Pini Shekhter, Varun Natu, Maxim Sokol
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29476v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 84：
+标题：Scaling of phase rigidity without eigenstate coalescence
+作者：Shang-En Xie, Li-Mei Chen, Yao Zhou, Peng Ye
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29463v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 85：
+标题：Auditing a superconducting database built by a large language model
+作者：Wenjian Lu
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29445v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 86：
+标题：Nonempirical Determination of the Optimal TAO-DFT Fictitious Temperature for Molecular Systems in the Lowest Singlet State
+作者：Bing-Ying Li, Jeng-Da Chai
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29414v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 87：
+标题：Collineations of particles as a tool to study nucleation and crystallization processes in liquids
+作者：V. A. Levashov
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29360v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 88：
+标题：Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides
+作者：Rafael R. Del Grande, David A. Strubbe
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29349v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 89：
+标题：Quantum-Metric-Driven Hollow Wigner Crystals
+作者：Zekun Zhuang
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29317v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 90：
+标题：AgenticMM: A Material-Centered Multi-Agent Architecture for Scalable First-Principles Materials Modeling
+作者：Zhenkun Yuan, Geoffroy Hautier
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29248v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 91：
+标题：Polarization-independent self-hybridized strong coupling by Brillouin zone folding induced quasi-bound states in the continuum in bulk WS2 metasurfaces
+作者：Xiongwei Guo, Fu Liu, Jinhai Si, Xun Hou, Kuidong Wang
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29204v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 92：
+标题：CLFF: Automated Framework for Concurrent Learning Force Fields and Material Property Calculations
+作者：Cao Thang Nguyen, Sung Youb Kim
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29187v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 93：
+标题：DeepDOSReasoner: Physics-Grounded Reasoning for Density-of-States Prediction and Materials Discovery
+作者：Yingheng Wang, Francesco Ricci, Zhilong Wang, Tao Yu, Junwen Bai, Xiangyun Lei, Shufeng Kong, Fengqi You, John M. Gregoire, Carla P. Gomes
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29132v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 94：
+标题：A Fiber-Optic Platform for Cryogenic Laser-Pump Neutron-Probe Magneto-Optical Measurements
+作者：Lazar L. Kish, Andrei T. Savici, Tyler K. White, Vlad N. Sedov, Andrey A. Podlesnyak, Matthias D. Frontzek, Barry L. Winn, Igor A. Zaliznyak
+发布日期：2026-11-22
+arXiv链接：https://arxiv.org/pdf/2611.29114v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 95：
+标题：Interface invariants of rhombohedral graphene with layer-dependent potentials and couplings
+作者：Yuelong Li
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.29093v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 96：
+标题：Finite-size reversal of a multiparticle correction to local spin spectra in a flux-disordered Kitaev honeycomb model
+作者：David C. Ronquillo
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.29070v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 97：
+标题：Observation of nonadiabatic quantum tunneling in a driven correlated insulator
+作者：Mingyao Guo, Radu Andrei, Jaena Park, Je-Geun Park, Eugene Demler, David Hsieh
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28980v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 98：
+标题：Systematically improvable semiclassical clustering for accurate and efficient quantum dynamics in large spin ensembles
+作者：Pranay Venkatesh, Andrés Montoya-Castillo
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28958v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 99：
+标题：Tuning of superconducting and physical properties of Mo$\_{1-x}$Si$\_x$ thin films for Superconducting Nanowire Single-Photon Detector Applications
+作者：Oleh V. Zraichenko, Oleksandr O. Leha, Sergei V. Bengus, Valerii Yu. Lyakhno
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28927v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 100：
+标题：Charge-fluctuation hot lines and superconductivity in Ba$\_{1-x}$K$\_x$BiO$\_3$
+作者：Xiangang Wan, Sergey Y. Savrasov
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28879v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 101：
+标题：Thickness-Dependent Morphology and Electrical Transport in Ultrathin Amorphous MoSi Films
+作者：O. O. Leha, O. V. Zraichenko, S. I. Kryvonohov, V. Yu. Lyakhno
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28862v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 102：
+标题：Floquet-Induced Valley Polarization and Topological Phases in Twisted Bilayer Graphene Heterostructures
+作者：A. Belayadi, I. A. Assi, A. Johansson, C. I. Osuala, H. Bahlouli, Udo Schwingenschlögl, J. P. F. LeBlanc, A. Abbout
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28797v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 103：
+标题：Local Pressure Induced Quantum Dot to Ring Transition and Aharonov Bohm Effect in Reconfigurable MoTe2 Bilayers
+作者：Ibsal Assi, A. Belayadi, Hocine Bahlouli, Udo Schwingenschlögl, J. P. F. LeBlanc
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28786v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 104：
+标题：Synthesis Method-dependent Resist-like Behavior of Liquid Crystalline Graphene Oxide Films Under Electron Beam Irradiation
+作者：A. Sahakyan, Ghada E. Khedr, A. A. Hovhannisyan, G. Gevorgyan, K. Margaryan, G. Shakhatuni, M. Aleksanyan, Mohamed Aly Saad Aly, N. Nwaji, H. Gharagulyan
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28754v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 105：
+标题：Quantum Hall Effect in a 3D Cross-Dimensional Quantum Anomalous Hall System
+作者：Liang-Liang Cheng, Ao-Long Li, Zhi-Qiang Zhang, Hua Jiang
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28751v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 106：
+标题：Minimal Three-Band Model and $d$-Wave Superconductivity in La$\_4$Ni$\_3$O$\_8$
+作者：Ao Zhang, Chao Deng, Wenfeng Wu, Run Yang, Zhixiang Shi, Liang Si
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28747v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 107：
+标题：Spherical HgTe nanocrystal: a multi-band effective mass study
+作者：Rui Li
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28689v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 108：
+标题：Hartree--Fock analysis of the bilayer Hubbard model
+作者：E. Langmann, J. Lenells
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28597v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 109：
+标题：Competing magnetic correlations in the square-lattice Hubbard model with spin-dependent nearest-neighbor and next-nearest-neighbor hopping
+作者：Rana Imran Mushtaq, Ji Liu, Yinlong Li, Wing Chi Yu, Xiaosen Yang, Ho-Kin Tang
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28593v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 110：
+标题：Tritium speciation and transport in molten FLiBe: parameters, uncertainties and validation priorities
+作者：Joe Lunn, Teresa Orr, Megan Leyland, Ayobami Daramola, Rémi Delaporte-Mathurin, James Dark, Graeme J. Ackland, Prashanth Srinivasan, Andrew P. Horsfield, Mikhail Yu. Lavrentiev, Duc Nguyen-Manh, Mark R. Gilbert, Matthew R. Ryder
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28577v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 111：
+标题：From atomic events to material degradation across metre and year scales
+作者：Kun Li, Tian Luo, Haozhi Han, Ruge Zhang, Yifeng Chen, Xinfu He, Yunquan Zhang, Ting Cao, Yunxin Liu
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28559v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 112：
+标题：Ultrahigh Thermal Conductivity and Mirror-Parity Constraints in a Corrugated Two-Dimensional Oxide
+作者：Babu Ram, Arun S. Nissimagoudar, Weichao Wang, Geunsik Lee
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28536v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 113：
+标题：Interstitial Magnetoelectricity in Altermagnetic Electrides
+作者：Yue Li, Shibo Fang, Jianhua Wang, Qiang Li, Weizhen Meng, Haiyu Meng, Xiong-Xiong Xue, Jianfeng Wang, Yi Du, Jing Lu, Yee Sin Ang
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28504v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 114：
+标题：Coherent Control of Single-Photon Emission in Broadband Plasmonic Resonators
+作者：Athul S. Rema, Adrián E. Rubio López, Felipe Herrera
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28493v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 115：
+标题：Persistent Neutron Irradiation Effects and Partial Recovery in Thin-Film CdS/CdTe Solar Cells
+作者：Ashraful Mamun, Andrew Allison,  Meng-Jen,  Wang, Etee Kawna Roy, Edward Cazalas, Glenn E. Sjoden, Matthew O. Reese, Joel N. Duenow, Heayoung P. Yoon
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28472v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 116：
+标题：A Covalent Bonding Network Using p-Block Elements to Stabilize Lithium-Rich Cathode Materials
+作者：Amelia Zhao, Edward Mu, Jessica Luu, John Vinson, Brian Moritz, Eder G. Lomeli, Thomas P. Devereaux
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28452v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 117：
+标题：Integrable Orbital Exchange between Ellipsoidally Deformed $p$, $d$, and $f$ Electron States: Two-Angle Sklyanin Representations and Fused Elliptic $R$-Matrices
+作者：Vladimir Mikhalev
+发布日期：2026-11-21
+arXiv链接：https://arxiv.org/pdf/2611.28444v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 118：
+标题：Intertwined Magneto-Structural Criticality Driving Heterogeneous Collective-Pseudospin Dynamics in Sr2IrO4
+作者：Arnab Singh, Junyoung Kwon, AM Milinda Abeykoon
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28395v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 119：
+标题：Wireless readout and control of cavity magnon-polaritons via photonic modes delocalised across a gap
+作者：Alban Joseph, Ryan D McKenzie, Amy Eden, Morven Last, Shannon Howard, Alzbeta Oravcova, Mawgan A Smith, Robert L Stamps, Rair Macedo
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28347v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 120：
+标题：MagTrace: Tracing magnetic order through the evolving scientific literature
+作者：Mengnan Sun, Cheng Peng
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28338v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 121：
+标题：MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science
+作者：Yanlin Fei, Lei Li, Shaolong Chen, Nazhou Liu, Xinmiao Yu, Madalina Ciobanu, Navan Preet Singh, Qingqing Mao, Ritankar Das
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28324v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 122：
+标题：Cryogenic Luminescence Thermometry of Upconversion Micro- and Nanoparticles via Deep Learning
+作者：Pablo José Coria Ledo, Lina Wölcken, Lucas R. Mendicino, Santiago Gliosca, M. Claudia Marchi, Marcos Illescas, Beatriz Barja, Christian Tomás Schmiegelow
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28311v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 123：
+标题：First-Principles Investigation of the {ScSe2} TMDs Monolayer: Structural Stability, Electronic and Optical Properties
+作者：Takwa Ben Othman, Mohsen Jemaï, Said Ridene
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28279v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 124：
+标题：Symmetry classes of hyperdeterminant wavefunctions: Application to phase transitions between a bosonic fractional Chern insulator and superfluids
+作者：Guan-Lin Lin, Xiaodong Hu, Di Xiao, Ying Ran
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28276v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 125：
+标题：Observation of collective flatbands in hybrid Mie-grating THz metasurfaces
+作者：Jie Ji, Thanh Xuan Hoang, Ayan Nussupbekov, Siyan Zhou, Kehan Wang, Yuri Kivshar, Jaime Gómez Rivas
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28246v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 126：
+标题：Metal to Semiconductor Transition in Niobium Sulfoselenide Alloy Films by Compositional Control
+作者：Tinsae Alem, Abir Hasan, Jordan A. Hachtel, Kory Burns, Nikhil Shukla, Stephen McDonnell
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28238v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 127：
+标题：State-selective dynamical freezing in driven Rydberg atom chains
+作者：Madhumita Sarkar, Sougato Bose, Roopayan Ghosh
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28215v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 128：
+标题：Multiorbital driving of quantum geometric nonlinear transport in oxide interfaces
+作者：Irene Gaiardoni, Mattia Trama, Roberta Citro, Annika Johansson
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28213v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 129：
+标题：Quantum Many-Body Scars from Operator Size
+作者：Debarghya Chakraborty, Dario Rosa
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27982v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 130：
+标题：Thermopower overshoot from collinear scattering in two-dimensional Fermi liquids
+作者：Johannes Hofmann
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27981v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 131：
+标题：Structure and relaxation of long-lived odd-parity modes in two-dimensional Fermi liquids
+作者：Stan Boeve, Johannes Hofmann
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27980v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 132：
+标题：Defect Engineering of the Water-Carbon Interface: Insights from First-Principles Calculations
+作者：Peikun Zhang, Hongbo Zhang, Ying Xu, Zhuhua Zhang
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28201v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 133：
+标题：Optimised 8th-Order Trotter-Suzuki Schemes for Quantum Simulation
+作者：Marko Maležič, Johann Ostmeyer
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27896v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 134：
+标题：Thermo-electric Response Bound on Fluctuations in Coherent Transport
+作者：Gianmichele Blasi, Rosa López, Mykhailo Moskalets, Sungguen Ryu
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27884v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 135：
+标题：Linear Response Theory of Nitrogen K-Edge X-ray Absorption of TCNQ
+作者：Alberto Boccuni, Vita Ilakovac, Stéphane Carniato, Jacques Kontak-Desmarais
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27869v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 136：
+标题：Prediction and characterisation of cation topology of pentanary high-entropy alloy (MoWNbTaV)S$\_2$
+作者：Shubham Agarwal, Tahir Wahab, Jesper Byggmästar, Antonio Cammarata, Tomas Polcar
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27842v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 137：
+标题：Voltage-Controlled Dielectric Cavity Magnonics in Epitaxial Fe Films on SrTiO3 Single Crystal Substrates
+作者：Stijn Reniers, Ekaterina Gorokh, Lukas Nulens, Andries Boelen, Christian Haffner, Clement Merckling, Alejandro V. Silhanek, Kristiaan Temst, Joris Van de Vondel
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27837v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 138：
+标题：Heat cleaning kinetics and thermal degradation of MOCVD-grown GaAs photocathodes
+作者：Gregory Blume, Adam Masters, Colin Kirk, Sushil Poudel, John Hill, Alimohammed Kachwala, Joseph Grames, Marcy L Stutzman, Sylvain Marsillac, Matt Grau
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27833v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 139：
+标题：Magnetic-Field Response of a Hyperbolic Kitaev Spin Liquid
+作者：Tao Yang, Baigeng Wang, Rui Wang, Z. Y. Xie
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27819v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 140：
+标题：Shift current as a stacking spectroscopy of hexagonal boron nitride multilayers
+作者：Sanber Vizcaya, Juan M. Florez, Eric Suárez Morell
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27785v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 141：
+标题：Solving fermionic sign problems with physics-informed kernels
+作者：Kenji Fukushima, Friederike Ihssen, Renzo Kapust, Jan M. Pawlowski
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27768v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 142：
+标题：General Transport Signatures of Odd-Parity Magnets: Charge--Spin Selection Rules and Temporal--Spectral Separation
+作者：Junxi Yu, Pu Zhang, Yichen Liu, Yongpan Li, Cheng-Cheng Liu
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27763v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 143：
+标题：Lattice-geometry dependence of Type-I and Type-II magnetic flux responses in strongly correlated bosons
+作者：Takayuki Yokoyama, Yasuhiro Tada
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27749v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 144：
+标题：Atomistic theory of the $d$-wave phonon angular momentum splitter effect
+作者：Daniel A. Bustamante Lopez, Dominik M. Juraschek
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27747v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 145：
+标题：Silver/alumina-capped Janus particles: a dispersible hyperbolic metamaterial
+作者：Samhita Kattekola, Raymond R. Dagastine, Alexander Couzis, Ilona Kretzschmar
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27736v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 146：
+标题：Comparing weakly interacting and free quantum dynamics locally
+作者：Jorge Acuña Flores, Joscha Henheik, Marius Lemm, Daniele Toniolo
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27707v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 147：
+标题：Modeling the contact area and intersurface forces between Pb nanoparticles and suspended graphene
+作者：Mykola Prodanov, Anton Samilyk, Oleksii Khomenko, Antonina Biesiedina
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27654v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 148：
+标题：Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate
+作者：Layatmika Sahoo, Suchandrima Das
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27583v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 149：
+标题：Designing Perovskites for Chemical Looping Hydrogen Production
+作者：Ivana Staničić, Alfred Juhlin Onbeck, Anders Hellman, Tobias Mattisson, Magnus Rydén
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27580v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 150：
+标题：Physically Informed Data-Driven Modeling of Low-Pressure Carburizing (LPC): A Self-Calibrating Boundary Condition for Carbon Flux
+作者：Alex V. Sagalovych, Tymofii Sagalovych, S. F. Dudnik, Vladislav Sagalovych
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28190v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 151：
+标题：Minimal chiral $p$-wave superconductor
+作者：Fabian Hassler, Michael Wimmer
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27555v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 152：
+标题：geodesiq: a Python package for geometric diabatic-adiabatic optimal state transfer
+作者：David Fernández-Fernández, Christian Ventura-Meinersen, Maximilian Rimbach-Russ, Gloria Platero
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27535v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 153：
+标题：Adaptive obstacle deposition drives dynamical localization in chase-and-escape dynamics
+作者：R. G. Rossatto, Amin Bakhshandeh, H. Arial Alvarez, C. Manuel Carlevaro, José Rafael Bordin
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27470v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 154：
+标题：Decoupling Exciton Energetics from Wavefunction Geometry in Imide-Based Defect Double Antiperovskites
+作者：Dhriti Mandal, Saswata Bhattacharya
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27440v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 155：
+标题：A Negative-U Double Quantum Dot in a LaAlO3/SrTiO3 Membrane on Silicon
+作者：Giulia Meucci, Thies Jansen, Pinelopi O. Konstantinopoulou, Dags Olšteins, Damon J. Carrad, Carina Babu Maliakkal, Jordi Arbiol, Nicolas Bergeal, Manuel Bibes, Roberta Citro, Emiliano Di Gennaro, Alexei Kalaboukhov, Nicola Manca, Carmine A. Perroni, Marco Salluzzo, Paweł Wójcik, Felix Trier, Nini Pryds, Fabio Miletto Granozio, Alessia Sambri, Thomas S. Jespersen
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27428v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 156：
+标题：One-Step Self-Assembling Lipopolymer Coatings Enable Direct Longitudinal Biosensing in Native Biological Matrices
+作者：Pascal Rüedi, Sarina Seiter, Stephan Handschin, Chiara Lombardo, Jaime Ortega Arroyo, Romain Quidant
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27422v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 157：
+标题：Quantum computing for gearing down complex many-fermion problems
+作者：Weijie Du, Filippo Fornetti, James P. Vary
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27402v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 158：
+标题：Pure Orbitronics: Hall Responses and Torques by Orbital Exchange in Spinless Transition-Metal Dichalcogenides
+作者：Mahmoud Zeer, Dongwook Go, Yuriy Mokrousov
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27391v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 159：
+标题：Frustration-Stabilized Hexamerons and Their Topological Magnons in Janus MXene
+作者：C. B. Subba, Z. Pachuau, Samy Brahimi, Samir Lounis, D. P. Rai
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27384v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 160：
+标题：Pairing and modular: Generalized electrons and quasiholes inside the $\boxtimes$ of topological orders
+作者：Yoshiki Fukusumi, Yuma Furuta
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27378v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 161：
+标题：Role of antisite disorder in dictating the Ising anisotropy and ferromagnetic ground state of NdGaSi
+作者：Anyesh Saraswati, Sourav Kanthal, Subhajit Nandy, Jhuma Sannigrahi, Matthias Gutmann, Nitesh Kumar
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27334v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 162：
+标题：Gap-label bounds and optical reconstruction of Landau-subband quantum geometry
+作者：Özgür Kelekçi
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27321v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 163：
+标题：Nonmonotonic Magnetic Correlations in Decorated Lieb-Lattice Anderson Models
+作者：Raymond Hmuifoo, Edwin W. Huang, Annabelle Ancheta, Richard T. Scalettar
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27247v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 164：
+标题：Tailoring Phonon Transport in Bi-based Quaternary Half-Heusler alloys for Thermoelectric Applications
+作者：Supriya Ghosal, Sayan Paul, Swapan K. Pati
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27234v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 165：
+标题：Generating grain boundary structures at a specified energy with a symmetry-constrained diffusion model
+作者：Kazuya Miyamoto, Ibuki Okuda, Izumi Takahara, Teruyasu Mizoguchi
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27188v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 166：
+标题：Quantum effects on the Peierls stress for screw dislocations in α-Fe
+作者：Jiaqu Sun, Yang Li, Boyang Gu, David McDowell, Youping Chen
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27176v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 167：
+标题：Kinetic Arrest of a Disordered First-Order Phase Transition in Strained V2O3 Thin Films
+作者：Sindhunil Barman Roy
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27168v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 168：
+标题：Power Law Transients in Perovskite Photoluminescence
+作者：Anas M. M., Pradeep R. Nair
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27163v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 169：
+标题：Physical Learning for Autonomous Tuning of Spin Qubits in Electrostatically Defined Quantum Dots
+作者：Leonardo Gaytan, Bradley Lloyd, Paul Kliewer, Chandler Wilburn, Lincoln D. Carr, Adam McCaughan, Sonia Buckley, Meenakshi Singh
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27140v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 170：
+标题：Structural, optoelectronic, mechanical, thermodynamic and thermoelectric properties of kesterite Cu2ZnSnS4: A first-principles study
+作者：Iskandar Raufzoda, Amondulloi Burhonzoda, Dilshod Nematov, Makhmadzoir Kayumov, Saidjafar Murodzoda, Anushervon Ashurov, Sakhidod Sattorzoda, Makhsud Barot Islomzoda, Kholmirzo Kholmurodov, Shuwei Tang
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.28172v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 171：
+标题：Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations
+作者：Wenwu Jiang, Hekai Bu
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27103v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 172：
+标题：Quantum order by disorder among lozenge tilings: a staircase of hub-free crystals between the Lieb ferrimagnet and the antiferromagnet
+作者：Suhwan Yoo, Jeehoon Choi, Chaeyeon Kim, Hee Young Kwon, Changyeon Won
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27076v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 173：
+标题：Growth and anisotropic directional dependent transport properties of Altermagnetic CrSb
+作者：Resham Babu Regmi, Hari Bhandari, Sk Jamaluddin, Abhijeet Nayak, Ashok Chaudhary, Mohamed El Gazzah, Alex T. Sheardy, Maksym Zhukovskyi, Allen G. Oliver, Nirmal J. Ghimire
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27072v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 174：
+标题：Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis
+作者：Pedro H. Souza, Walter Orellana
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27037v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 175：
+标题：Energy and Charge Transmission at Conformal Interfaces: Relations and Bounds
+作者：Yuma Furuta, Yuya Kusuki, Toshiki Onagi, Yin Tang
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.27002v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 176：
+标题：Resonance-controlled post-selected mode entanglement in one-dimensional quantum scattering
+作者：Víctor M. Villalba
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.26960v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 177：
+标题：Parametric excitation of nano-scale spin waves with controlled phase by an open-resonator-type transducer
+作者：Roman Verba, Vladyslav Borynskyi, Vasil Tiberkevich, Andrei Slavin
+发布日期：2026-11-20
+arXiv链接：https://arxiv.org/pdf/2611.26932v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 178：
+标题：Interfacial Transition Waves and Domain Wall Self-Pinning in Bi-stable Mechanical Metamaterial
+作者：Michael J. Frazier
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26877v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 179：
+标题：Majorana quasiparticles, mass hierarchies, and the phase diagram of the Gross-Neveu model in D=2+1
+作者：Igor F. Herbut, Mathew Schneider
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26872v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 180：
+标题：First-principles-based Prediction of Phase Fields: Part II. Solid Solution Tunability in Refractory Complex Concentrated Alloys
+作者：Pravan Omprakash, Nicholas Crnkovich, Nathan Curtis, John Cavin, Adrien Couet, Rohan Mishra
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26866v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 181：
+标题：Artificial Spin-Glass of Antiferromagnetic Co3O4 Nanocubes Using Spin-Polarized Oxygen
+作者：Gurleen K. Uppal, Alberto Acosta, Rachel Nickel, Christoph Klewe, Yanna Chen, Chengjun Sun, Charles A. Roberts, Johan van Lierop
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26860v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 182：
+标题：Geometric Contribution to the Electron-Phonon Coupling Constant: Checkerboard and Hyper-diamond Models
+作者：Thomas Caligiure, Daniel P. Arovas, Jiabin Yu
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26823v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 183：
+标题：Tuning the Dzyaloshinskii-Moriya interaction in CoFeB thin film heterostructures
+作者：Rabindra R Oliya, Christopher Keck, Lia Compton, Jing Guo, Kristen S Buchanan, Robert Streubel, Shireen Adenwalla
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26808v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 184：
+标题：Prediction of lattice thermal conductivity of half-Heusler compounds by machine learning and transfer-function calibration
+作者：Shivam Randive, Ojaswini Randive, Heet Lungaria, Himanshu Pandey
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26788v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 185：
+标题：Emergent Long-Range Entanglement in the XXZ Quantum Spin Chain with Competing Orders
+作者：Anthony Balchin, Eytan Grosfeld, Eran Ginossar
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26741v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 186：
+标题：Atomic layer etching of niobium via alternating O$\_2$ and H$\_2$/SF$\_6$ plasma exposures
+作者：Lillian B. Hughes Wyatt, Azmain A. Hossain, Yifei Yan, Austin J. Minnich
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26735v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 187：
+标题：Impact of spin fluctuations on spectral functions and transport in a model altermagnet
+作者：Sourav Chakraborty, Manoranjan Kumar, Arun Paramekanti
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26725v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 188：
+标题：Free-Space Excitation of Frozen Waves and Topological Edge States in Graphene at a Time Interface
+作者：Shivaksh Rawat, Samyobrata Mukherjee, Jeffery W. Allen, Monica S. Allen, Gennady Shvets
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26714v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 189：
+标题：When the magnetic force theorem fails: dressed exchange in the induced-moment magnets FePt, FePd, CoPt, and CoPd
+作者：Vladislav Borisov, Maryna Pankratova, Rohit Pathak, Pamela Costa Carvalho, Erna K. Delczeg-Czirjak, Sagar Sarkar, Anders Bergman, Qichen Xu, Nezhat Pournaghavi, Manuel Pereiro, Hermann Dürr, Mikhail I. Katsnelson, Olle Eriksson, Anna Delin
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26697v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 190：
+标题：Topological phases protected by half-chiral symmetry
+作者：Chen-Shen Lee, Itamar Kimchi
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26693v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 191：
+标题：Off-diagonal long-range order and $p$-wave pairing in one dimension from critical density fluctuations
+作者：Matthew D. Thomson, Simon M. Martin, Frank Marsiglio, Joseph Maciejko
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26690v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 192：
+标题：Topologically Obstructed Kondo Hybridization: A Route to Kondo Semimetals
+作者：Yue Liu, Junze Deng, Haoyu Hu
+发布日期：2026-11-19
+arXiv链接：https://arxiv.org/pdf/2611.26686v1
+研究目的：[生成失败: API 调用失败: ]
+主要发现：[生成失败: API 调用失败: ]
+---
+
+论文 193：
 标题：Fractional Charge at Dislocations from Band-Inversion Cancellation
 作者：Vladimir Juričić, Rodrigo Soto-Garrido
 发布日期：2026-11-19
@@ -26,7 +1754,7 @@ arXiv链接：https://arxiv.org/pdf/2611.26616v1
 主要发现：[生成失败: API 调用失败: ]
 ---
 
-论文 2：
+论文 194：
 标题：Field theory and the biquadratic spin-1 chain
 作者：Luisa Eck, Paul Fendley
 发布日期：2026-11-19
@@ -35,7 +1763,7 @@ arXiv链接：https://arxiv.org/pdf/2611.26610v1
 主要发现：[生成失败: API 调用失败: ]
 ---
 
-论文 3：
+论文 195：
 标题：Scalable Simulation of Strongly Correlated Fermions with Neural Gaussian Tensor Networks
 作者：Runze Chi, Ao Chen, Garnet Kin-Lic Chan
 发布日期：2026-11-19
@@ -44,7 +1772,7 @@ arXiv链接：https://arxiv.org/pdf/2611.26604v1
 主要发现：[生成失败: API 调用失败: ]
 ---
 
-论文 4：
+论文 196：
 标题：Local orbital magnetization and Chern markers from equilibrium local currents
 作者：Henrique P. Veiga, Aires Ferreira, Caio H. Lewenkopf, João M. Viana Parente Lopes
 发布日期：2026-11-19
@@ -53,7 +1781,7 @@ arXiv链接：https://arxiv.org/pdf/2611.26599v1
 主要发现：[生成失败: API 调用失败: ]
 ---
 
-论文 5：
+论文 197：
 标题：Magnon high-harmonic generation by nonlinearities of spin torque driven by phonon-mediated crossing of many-body energy levels of bright and dark excitons
 作者：Jalil Varela-Manjarres, Federico Garcia-Gaitan, Branislav K. Nikolic
 发布日期：2026-11-19
@@ -62,16 +1790,16 @@ arXiv链接：https://arxiv.org/pdf/2611.26589v1
 主要发现：[生成失败: API 调用失败: ]
 ---
 
-论文 6：
+论文 198：
 标题：High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics
 作者：John M. Martyn, Rod Rofougaran, Samuel Stein, Di Luo
 发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26587v1
+arXiv链接：https://arxiv.org/pdf/2611.26587v2
 研究目的：[生成失败: API 调用失败: ]
 主要发现：[生成失败: API 调用失败: ]
 ---
 
-论文 7：
+论文 199：
 标题：Emergent Fatigue Dynamics from Foundational Interatomic Potentials
 作者：Jingye Tan, Benjamin A. Jasperson, Eric Rothchild, Anders Johansson, Rèmi Dingreville, Krishna Garikipati, Mitchell A. Wood
 发布日期：2026-11-19
@@ -80,1739 +1808,11 @@ arXiv链接：https://arxiv.org/pdf/2611.26533v1
 主要发现：[生成失败: API 调用失败: ]
 ---
 
-论文 8：
+论文 200：
 标题：Constitutive Kolmogorov-Arnold Networks in Finite Element Model Updating: Closed-Form Hyperelastic Strain Energies from Heterogeneous Experiments
 作者：Kian P. Abdolazizi, Kevin Linka, Christian J. Cyron
 发布日期：2026-11-19
 arXiv链接：https://arxiv.org/pdf/2611.26528v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 9：
-标题：Emergent Orbital Hall Currents in Disordered and Amorphous Materials
-作者：Jorge Martinez Romeral, Thomas Galvani, Onurcan Kaya, Stephan Roche, Aron W. Cummings, Luis M. Canonico
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26502v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 10：
-标题：Nonstandard quantum statistics for strongly correlated systems: Superexclusion in momentum space and comparison with exact results
-作者：Piotr Kuterba, Mateusz Wójcik, Józef Spałek
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26489v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 11：
-标题：Two distinct notions of speed in antiferromagnets
-作者：Paul Herrgen, Stephan Wust, Christin Schmitt, Yaryna Lytvynenko, Lorenzo Baldrati, Rafael Ramos, Takashi Kikkawa, Eiji Saitoh, Martin Jourdan, Mathias Kläui, Hans Christian Schneider, Benjamin Stadtmüller, Martin Aeschlimann
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26482v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 12：
-标题：Half-strings across the deconfinement transition of a $U(1)$ quantum link model
-作者：Indrajit Sau, Arnab Sen, Debasish Banerjee
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26415v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 13：
-标题：Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation
-作者：Zhiwei Li, Yuhao Zhou, Yikai Yang, Haonan Wang, Qing Ye, Jiancheng Lv, Kazunari Matsuda
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26349v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 14：
-标题：Quantum Metric Control of Topological Superconductivity and Incommensurate Charge Density Wave in an Interacting Lieb-Kitaev Chain Model
-作者：Jiale Xuan, Grant Z. X. Yang, K. T. Law, Xiao Yan Xu
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26327v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 15：
-标题：Phase diagram of the attractive lattice Fermi polaron and the instability of Nagaoka ferromagnetism
-作者：Gerard Pascual, Kris Van Houcke
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26304v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 16：
-标题：Fast extraction of universal data from temporal spectrum: Applications to Haagerup CFT and monopole scattering
-作者：Tokiro Numasawa, Boris De Vos, Masataka Watanabe, Atsushi Ueda
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26257v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 17：
-标题：To predict or to persist: how decoherence shapes learning in a spin-qubit quantum reservoir
-作者：Nikolaos Petropoulos, Elena Blokhina
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26215v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 18：
-标题：Unusual increase in electrical and thermal conductivity of severely deformed CrMnFeCoNi high-entropy alloy: Roles of disordering and nanostructuring in electron and phonon transport
-作者：Jacqueline Hidalgo-Jiménez, Payam Edalati, Md Amirul Islam, Makoto Arita, Dmitry Chernyshov, Bidyut Baran Saha, Kaveh Edalati
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26213v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 19：
-标题：Reward misalignment as an opportunity for materials discovery
-作者：Ryotaro Okabe, Shoki Kishida, Abhijatmedhi Chotrattanapituk, Dominic Bollettieri, Takuya Isogawa, Yongqiang Cheng, Mingda Li, Masaki Adachi
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26186v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 20：
-标题：Spectral localizers in phase space: $\mathbb{Z}$ and $\mathbb{Z}\_2$ invariants for higher-order, semimetal, and valley modes
-作者：Lucien Jezequel, Christophe Mora
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26160v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 21：
-标题：Sliding-ferroelectric control of dipolar and quadrupolar excitons in R-stacked WSe$\_2$
-作者：Asmund Ottesen, Shun Feng, Edoardo Lopriore, Yaroslav Zhumagulov, Kenji Watanabe, Takashi Taniguchi, Oleg V. Yazyev, Andras Kis
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26158v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 22：
-标题：Local-channel inequivalence within analytic symmetry-broken phases
-作者：Guanxi Xun, Rintaro Masaoka, Weiguang Cao, Haruki Watanabe
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26139v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 23：
-标题：Investigating Thermal Boundary Conductance in Monolayer Transition Metal Dichalcogenides: A Systematic Comparison of Advanced Nanoscale Thermometry Techniques
-作者：Timm Swoboda, Jiaqi Yang, Arkadiusz P. Gertych, Carlos Acosta, Onurcan Kaya, Daniel Capolat Palomar, Severine Gomès, Aitor Lopeandia, Stephan Roche, Javier Rodriguez-Viejo, Marianna Sledzinska
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26129v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 24：
-标题：Topology-Enabled Self-Verification of Quantum Hall Resistance Standards
-作者：DaVonne Henry, Dominick S. Scaletta, Tamar M. Padwa, Heather M. Hill, Gretchen B. Ferguson, Evelyn E. Hopkins, Mattias Kruskopf, Dean G. Jarrett, David B. Newell, Albert F. Rigosi
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26016v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 25：
-标题：Lattice dynamics study of (Bi1-xSbx)2Te3 compounds: Comparative compositional study of force constants and Grüneisen parameters
-作者：Baihong Sun, Chenxin Wei, Elissaios Stavrou
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.26010v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 26：
-标题：Multicharged Kramers-Weyl Fermions, Quantum Geometric Hall Responses and de Haas-van Alphen Oscillations in WAl$\_2$
-作者：Saurav Patel, Meet Shah, Prafulla K. Jha
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25987v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 27：
-标题：Alloying effects on the interface cohesion of grain boundaries in the Ni--Fe--Cr system
-作者：Aljoscha Felix Baumann, Reyhaneh Ghassemizadeh, Daniel F. Urban
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25944v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 28：
-标题：Thermal investigation of buffer and transition layers in AlGaN HEMT stacks
-作者：Simon Fernbach, Lisa Mitterhuber, Egbert Zojer, Natalia Bedoya-Martínez
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25928v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 29：
-标题：Large transformation strain of $\mathrm{Ni}\_{50}\mathrm{Fe}\_{23}\mathrm{Ga}\_{27}$ microwires produced by the Taylor-Ulitovsky method
-作者：Limpat Nulandaya, Petr Cejpek, Ladislav Straka, Oleg Heczko, Rastislav Varga
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25911v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 30：
-标题：Ab-initio study of magnetic interaction in RNiO2: role of rare-earth size and epitaxial strain
-作者：Ramasamy Murugesan, Shiyu Deng, Marie-Bernadette Lepetit
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25907v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 31：
-标题：momipy: A time-resolved momentum microscopy data analysis workflow
-作者：Paul Werner, Wiebke Bennecke, Jan Philipp Bange, Junde Liu, Daniel Steil, Marcel Reutzel, G. S. Matthijs Jansen, Stefan Mathias
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25888v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 32：
-标题：Higher-order magnetic hopfions in uniaxial chiral magnets
-作者：Vladyslav M. Kuchkin, Nikolai S. Kiselev
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25883v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 33：
-标题：Precise experimental investigation of the reflection properties caused by s-polarized evanescent waves and the Casimir puzzle
-作者：M. Dhital, G. L. Klimchitskaya, V. M. Mostepanenko, U. Mohideen
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25856v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 34：
-标题：Molecular Dynamics Simulation of the Solidification of AlCoCuFeNi High-Entropy Alloy Nanowire
-作者：O. I. Kushnerov
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25836v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 35：
-标题：Helices at Twisted Ferroelectric Interfaces
-作者：Kristina Holsgrove, Ronan Lynch, Conor McCluskey, Eoin Moynihan, Andrew Rogers, Xinxin Hu, Boris Croes, Loan Hajdari-Manigault, Maria Lazarut, Eadaoin Anderson, Sam Seddon, Anna Razumnaya, Yurii Tikhonov, Ana M. Sanchez, Marios Hadjimichael, Amit Kumar, Raymond McQuaid, Jordi Arbiol, Gustau Catalan, Richard Beanland, Igor Lukyanchuk, Lukas M. Eng, Salia Cherifi-Hertel, Tchavdar Todorov, J. Marty Gregg
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25828v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 36：
-标题：Current-driven resistive switching in high-field heavy fermion metal UTe2
-作者：Ling Zhang,  Chunyu,  Guo, David Graf, Carsten Putzke, Mitchell M. Bordelon, Eric D. Bauer, Sean M. Thomas, Filip Ronning, Priscila F. S. Rosa, Philip J. W. Moll
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25792v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 37：
-标题：Intelligent Imaging of Thermal Transport in Nanostructures
-作者：Xin Qian, Te-Huan Liu, Xiaobo Li, Ronggui Yang
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25779v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 38：
-标题：Field-free deterministic spin-orbit torque magnetization switching using monolayer WTe2
-作者：Ganesh Hanchanahal, Arnav Jain, Shrushti Tapar, Saroj P Dash, Bhaskaran Muralidharan
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25755v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 39：
-标题：Probing thin films and their interfaces via angle-resolved second-harmonic generation
-作者：J. Lukes, D. S. Gaur, V. Kanclir, K. Zidek
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25746v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 40：
-标题：Thermally driven multiple sliding states and avalanche dynamics in rhombohedral Pb(TaSe2)2 nanoflakes
-作者：Zhuokai Xu, Xiaohui Yang, Zhefeng Lou, Tian Le, Jialu Wang, Jiajun Ma, Ruiya Zhan, Xiao Lin
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25739v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 41：
-标题：MatVerse: A Foundation Model for Materials Science
-作者：Xuanyu Zhu, Qian Tan, Bo Chen, Jiaqing Xie, Yang Han, Mei Wu, Wanhao Liu, Xuanze Lin, Yuchen Zhou, Shijie Wang, Biqing Qi, Shixiang Tang, Wenwei Zhang, Tianfan Fu, Kai Yu, Lu Chen, Yuqiang Li, Xin Chen
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25651v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 42：
-标题：AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction
-作者：Changzhi Ai, Frank Abild-Pedersen, Johannes Voss
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25646v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 43：
-标题：Interaction-driven phase transition between bosonic Moore-Read and Laughlin states in a multiple flat-band model
-作者：Licheng Wang, Jia-Yuan Wu, Dong-Hao Guan, Ai-Lei He, Yuan Zhou
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25633v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 44：
-标题：Comparative First-Principles Study of the Physical Properties, Phonon-Mediated Superconductivity and Functional Potential of Technetium-Based Binary Borides TcB2, Tc2B and Tc3B
-作者：M. Rabi Us Sani Shapon, Jubair Hossan Abir, Md. Asif Afzal, Raihana Shams Islam, Saleh Hasan Naqib
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25554v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 45：
-标题：Scattering Circular Dichroism from Spatially Modulated Anisotropic Magnetic Dipoles in BiFeO$\_3$
-作者：Y. Ishii, N. Sasabe, T. Honda, S. Kawachi, T. Ito, A. Sumiyoshiya, H. Nomura, T. Nakamura, T. Arima, Y. Yamasaki
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25546v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 46：
-标题：Momentum-space quantum Monte Carlo for twisted bilayer graphene: Interaction effects in the presence of remote bands
-作者：Shibo Shan, Cheng Huang, Zi Yang Meng
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25522v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 47：
-标题：Topological Bound States in the Continuum
-作者：Dan-Na Liu, J. Villavicencio, Pierre A. Pantaleon
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25493v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 48：
-标题：Origin and hole-density dependence of the intrinsic spin Hall conductivity in inorganic halide perovskites
-作者：Thanh Tung Huynh, Yuefeng Yin, Weiyao Zhao, Junlin Yan, Qurat Ul Ain, Jacek J. Jasieniak, Julie Karel, Nikhil V. Medhekar
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25488v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 49：
-标题：FamilySpace: From Emergent Chemical Semantics to Controllable Crystal Generation
-作者：Haowei Hua, Irwin King, Wanyu Lin
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25452v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 50：
-标题：Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff
-作者：Alex Liu, Ganesh Raghavendran, Eric S. Yang, Kevin J. Anderton, Vibhu Vardhan Singh, Aiden Larson, Kun Ryu, Kent J. Griffith, Joshua S. Figueroa, Ying Shirley Meng, Tod A. Pascal
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25375v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 51：
-标题：Circuit model for gate-induced excitation of quantum Hall edges tuned by DC gate bias
-作者：Kodai Sugizaki, Takaaki Mano, Go Yusa
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25332v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 52：
-标题：Symmetry-resolved spectroscopy of truncation-induced perturbations in loop tensor network renormalization of the six-vertex model
-作者：Akira Otsuki, Yuta Yamamoto, Kokin Cho, Rikuto Fushio, Masahito Yamazaki
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25322v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 53：
-标题：Learning Spin Hamiltonians from Interacting Magnon Spectra
-作者：Ang-Kun Wu, David A. Dahlbom, Kipton Barros, Cristian D. Batista, Hao Zhang
-发布日期：2026-11-19
-arXiv链接：https://arxiv.org/pdf/2611.25321v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 54：
-标题：Canted antiferromagnetism and spin-flop transition in honeycomb $α$-Na$\_2$PrO$\_3$ revealed by angle-dependent torque magnetometry up to 35 T
-作者：Kylie MacFarquharson, Ryutaro Okuma, Matthew Pearce, Amalia I. Coldea, Alix McCollam, Roos Leenen, Uli Zeitler, Yurii Skourski, Radu Coldea
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25291v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 55：
-标题：Resilience of emergent Hamiltonian quantum memories in the presence of noise
-作者：Anubhab Sur, Rubem Mondaini
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25286v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 56：
-标题：Altermagnetic magnon splitting in hematite: from bulk g-wave to planar i-wave
-作者：Tobias Dannegger, Julian A. Beisch, Levente Rózsa, László Szunyogh, Ulrich Nowak
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25284v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 57：
-标题：Molecular engineering for crack-free transfer of single-crystalline oxide membranes onto silicon
-作者：Jeongkeun Song, Jihye Choi, Benjamin Doughty, Young-Hoon Kim, Keun-Yeol Park, Uvinduni I. Premadasa, Miaofang Chi, Seung Sae Hong, Celesta S. Chang, Zheng Gai, Ambrose Seo, Tomonori Saito, Ho Nyung Lee
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25246v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 58：
-标题：Single-Crystal Growth, Structure, and Physical Properties of Yb2MoO6
-作者：Ali Sarikhani, Santhoshkumar Sundaramoorthy, Sadracd Gamez, Mathew Pollard, Deepak Singh, Jeremy Watts, Steven Kelley, Amitava Choudhury, Yew San Hor
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25225v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 59：
-标题：A Symmetry-Stratified Framework for Phase Transitions: Thermodynamic States, Critical Dynamics, and Spectral Mechanical Signatures
-作者：Pengfei Zhu, Leiming Du
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25212v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 60：
-标题：Tunable source of entangled microwaves by nonlinear scattering of magnons
-作者：Marco Brühlmann, Carlos Gonzalez-Ballestero
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25207v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 61：
-标题：The phase diagram of fluid hydrogen near melting from machine-learned interatomic potentials trained on quantum Monte Carlo
-作者：Shubhang Goswami, Hongwei Niu, Ilnur Saitov, Mathieu Istas, Yubo Yang, Scott Jensen, Markus Holzmann, Carlo Pierleoni, David Ceperley
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25178v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 62：
-标题：\textsc{Max-Cut} on Token Graphs
-作者：José Angel Alejandro-Soto, Paulo T. Araujo, Ruy Fabila-Monroy, Sergio Gerardo Gómez-Galicia, Mohamed Hibat-Allah, Md Moshiur Rahman Raj, Mahmud Ashraf Shamim, Ana Laura Trujillo-Negrete
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25153v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 63：
-标题：Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides
-作者：Arina A. Svinukhova, Faisal Baber, Michel M. Lukanov, Viktor S. Baidyshev, Daria Terentieva, Alexander Ya. Pak, Alexander G. Kvashnin
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25127v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 64：
-标题：A plane-wave auxiliary-field quantum Monte Carlo study of silicon point defects
-作者：Moritz Humer, Faruk Salihbegovic, Martin Schlipf, Zoran Sukurma, Georg Kresse
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25121v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 65：
-标题：Chiral Phonons Protected by Symmetry in a Strongly Anharmonic Helical Material
-作者：Supriyo Ghosh, Dipti Jasrasaria
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25089v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 66：
-标题：Certified Discovery of Quantum Phase Diagrams
-作者：Yuanxi Liu, John Preskill, Hsin-Yuan Huang
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25064v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 67：
-标题：$C\_T$ and $C\_J$ of general scalar--fermion conformal field theories in $d=4-ε$
-作者：Shiroman Prakash, Shubham Kumar Sinha
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25055v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 68：
-标题：Quantum many-body scars and zero modes in the spin-1 Kitaev chain
-作者：Ayush Sharma, Jay Pandey
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25051v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 69：
-标题：Topological (in)equivalence encoded in zeros of wavefunction overlaps
-作者：Carolina Paiva, Bruno Mera, Roni Ilan, Raquel Queiroz
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25037v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 70：
-标题：Anyon Coherent States in Fractional Chern Insulators
-作者：Pedro Fittipaldi de Castro, Haylen Gerhard, Wladimir A. Benalcazar
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25034v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 71：
-标题：Passive memories beyond the Ising model: from SFQ to GKP
-作者：Simon Lieu
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25030v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 72：
-标题：Chern Numbers from Symmetry-Enforced Zeros and Dispersion Shifts
-作者：Yoonseok Hwang, Henry Davenport, Frank Schindler
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25028v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 73：
-标题：The Clifford Hierarchy from Clifford Stabilizers in 2D
-作者：Alison Warman, Sakura Schafer-Nameki
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25025v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 74：
-标题：Exact Parent Hamiltonians for Partially Magnetized Chiral Spin Liquids
-作者：Xin Shen, Guangyue Ji, Jie Wang
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24935v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 75：
-标题：Exact Fractional Chern Insulators from Hubbard Interactions
-作者：Jonah Herzog-Arbeitman, Rui-Heng Liu, Jiangping Hu, Chen Fang
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.25010v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 76：
-标题：Zero-Temperature Energetics of a First-Order Surface Phase Transition from Diffraction
-作者：Mohammad Tajik, Christian Brand, Stefan Wippermann, Wolf Gero Schmidt, Michael Horn-von Hoegen
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24919v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 77：
-标题：Prediction and Screening of $η$-carbide-type Nitrides for Ammonia Synthesis
-作者：Luka H. Mikek, Nicholas D. Humphrey, Andrea Ambrosini, Matthew D. Witman, Dallas R. Trinkle
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24909v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 78：
-标题：From geometric curvature to effective backgrounds: a dictionary for Dirac fermions in one, two and three spatial dimensions
-作者：David Valenzuela, Alfredo Raya
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24878v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 79：
-标题：4D-TEMPO: Differentiable 4D-STEM ptychography via fast Physics Optimizers
-作者：Ramani Duraiswami, Yichao Zhang
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24776v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 80：
-标题：Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach
-作者：Anna T. Bui, Grant M. Rotskoff, Thomas E. Markland
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24759v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 81：
-标题：Grain-size distribution characterization from single-shot x-ray diffraction using hierarchical Bayesian multi-emitter analysis
-作者：Hyun Sang Park, Gannon Murray, Rohit Berlia, David Elbert, Timothy P. Weihs, Todd C. Hufnagel
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24755v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 82：
-标题：Atomic-scale assembly of sulfur vacancy complexes for tailored in-gap states in monolayer WS$\_{2}$
-作者：Daniel Jansen, Guangyao Miao, Jan-Heinrich Keienburg, Jeison Fischer, Thomas Michely, Hannu-Pekka Komsa, Wouter Jolie
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24754v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 83：
-标题：Computing $F$-Symbols from Modular Data
-作者：Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24753v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 84：
-标题：Learning the Anyon Atlas
-作者：Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham, Zekai Zhu
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24752v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 85：
-标题：An Atiyah--Hirzebruch to Adams map and the hastened Adams spectral sequence for supercohomology
-作者：Arun Debray, Weicheng Ye, Matthew Yu
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24725v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 86：
-标题：The magical memory cost of entanglement spectrum compression
-作者：Matias Karjula, Vilma Nieminen, Teemu Ojanen, Tapio Ala-Nissila, Moein N. Ivaki
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24710v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 87：
-标题：The Long and Winding Pore: Tuning Porosity in Templated Nanoporous Carbons
-作者：Zacharie Waysenson, Baptiste Barthe-Gold, Arthur France-Lanord, Mathieu Salanne, A. Marco Saitta
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24707v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 88：
-标题：Unified Theory for Momentum-Space Nonsymmorphic Symmetry of Spin Space Groups
-作者：Peiyuan Wang, Zheng Zhang, Y. X. Zhao
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24629v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 89：
-标题：Gutzwiller Quantum-Classical Embedding for Dynamics Simulations of Correlated Electron Systems
-作者：Joshua Aftergood, Daniele Guerci, Jacob Brunton, Feng Zhang, Thomas Iadecola, Peter P. Orth, Cai-Zhuang Wang, Nicola Lanatà, Yong-Xin Yao
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24592v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 90：
-标题：Orientation-Tunable Interfacial Thermal Conductance in Lateral MoSe2/MoS2 Heterostructures: A Deep Potential Molecular Dynamics Study
-作者：Shirin Sabokdast, Pedram Mirchi, Ali Rajabpour
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24547v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 91：
-标题：$1/N$ corrections to $\langle TJJ\rangle$ and $\langle TTT\rangle$ in QED$\_3$, QED$\_3$--GNY and scalar QED$\_3$
-作者：Yongwei Guo, Zhijin Li, Ke Ren
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24531v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 92：
-标题：Mid-Infrared Integrated Acousto-Optic Phase Modulation on GaAs/AlGaAs
-作者：Thomas Gérodou, Mathilde Urbain, Luca Lucia, Etienne Herth, Jean-René Coudevylle, Martina Morassi, Aristide Lemaître, Damien Teyssieux, Raffaele Colombelli, Adel Bousseksou, Mathieu Jeannin
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24530v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 93：
-标题：Machine-learned potentials for iron oxides at extreme conditions
-作者：S. Azadi, S. M. Vinko, T. D. Kühne, A. Principi, M. S. Bahramy
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24525v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 94：
-标题：Compositional Mapping of Martensitic and Magnetic Transitions in Ni-Fe-Ga Bulk Alloys and Microwires
-作者：L. Straka, P. Veřtát, L. Nulandaya, M. Eliáš, D. Salazar, O. Heczko, R. Varga
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24503v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 95：
-标题：Structure and Thermal Conductivity of Epoxy-Graphene Oxide Composites from 4.5 to 300 K
-作者：A. Jeżowski, A. I. Krivchikov, O. A. Korolyuk, V. V. Sagan, Y. V. Horbatenko, S. V. Cherednychenko, D. Szewczyk
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24391v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 96：
-标题：Spontaneous emission of atomic systems near metallic and semiconducting atomic chains
-作者：Abhishek Ghosh, David Dams, Antton Babaze, Garnett Bryant, Carsten Rockstuhl, Andrés Ayuela, Karolina Słowik, Marta Pelc
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24358v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 97：
-标题：Spin dynamics in disordered systems with generic spin-momentum couplings: A matrix-rational formulation
-作者：Masataka Kakoi
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24346v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 98：
-标题：Conformal defects in a quasi-one-dimensional Kitaev chain: an exactly parametrized Ising defect line and a relevant vacancy
-作者：R. L. Silva. R. C. Silva, A. R. Pereira
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24312v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 99：
-标题：Reconciling Models for Infinite-Layer Nickelate Superconductors: Role of Interstitial-$s$ Band or $A$-Pocket
-作者：Ao Zhang, Chao Deng, Leonard M. Verhoff, Mi Jiang, Run Yang, Zhixiang Shi, Karsten Held, Liang Si
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24288v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 100：
-标题：Large Single Crystal Growth and Transport Properties of KCd$\_4$As$\_3$ and RbCd$\_4$As$\_3$
-作者：Keigo Ono, Yosuke Goto, Masayuki Murata, Hiroyasu Matsuura, Chul-Ho Lee
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24230v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 101：
-标题：Machine learning interatomic potentials and orientational defects in polymers
-作者：Arnold Kiv, Volodymyr Soloviev, Andrii Tuzhykov, Andrii Bielinskyi, Taras Kavetskyy, Nataliia Hoivanovych, Ondrej Šauša, Jaroslav Rusnák, Helena Švajdlenková, Jolita Ostrauskaite, Mykola Slusarenko
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24148v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 102：
-标题：From dynamic strain aging to Alessandro--Beatrice--Bertotti--Montorsi dynamics of propagating Portevin--Le Chatelier bands
-作者：Tero Mäkinen, Mikko J. Alava
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24141v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 103：
-标题：Non-Abelian Hall Effects of Flavor-Waves in $\mathbb{CP}^{2}$ Skyrmions
-作者：Carlos Saji, Eduardo Saavedra, Alvaro S. Nunez, Roberto E. Troncoso
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24134v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 104：
-标题：A Universal Diffusion Model for the Quantum Position Operator
-作者：Ransell D'Souza, Austin Zadoks, Riccardo Dal Molin, Nataliia Manko, Junfeng Qiao, Nicola Marzari, Antimo Marrazzo
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24130v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 105：
-标题：Properties of [111]-oriented ferroelectric superlattices based on oxides with a perovskite structure
-作者：A. I. Lebedev
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24129v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 106：
-标题：Stabilizer models of achiral abelian topological orders
-作者：Marvin Qi, Wilbur Shirley
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24105v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 107：
-标题：Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$\_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential
-作者：Xing He, Kairi Masuda, Aaron M. Schankler, Songsong Zhou, Andrew M. Rappe
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24097v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 108：
-标题：Observation of room-temperature intrinsic antiferroelectricity in van der Waals NbOCl2
-作者：JinKai Huo, Xingyu Chen, Gaolei Zhao, Xuan Chen, Yuchen Meng, Xu Han, Juhe Liu, Egor Kolesov, Konstantin Kozadaev, Alexei Tolstik, Andrei Zheltkovich, Andrey Novitsky, Shenghuang Lin, Changsen Sun, Dawei Li
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24092v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 109：
-标题：A GPU-Native Nested Sampling Framework for Finite-Temperature Materials Modelling with Machine-Learned Interatomic Potentials
-作者：Nico Unglert, Alessandro Serafini, Jesús Carrete, Georg K. H. Madsen
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24088v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 110：
-标题：Two-Color Coherent Control of the Spin Photovoltaic Effect in Centrosymmetric Crystals
-作者：Songmin Liu, Pan Zhou, Lizhong Sun
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24045v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 111：
-标题：Accelerating Quantum Error Correction Simulations under Coherent Noise with Compiled Clifford-Augmented Matrix Product States
-作者：Jiale Huang, Yaojian Chen, Ke Liu, Dingshun Lv, Mingpu Qin
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24044v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 112：
-标题：Topological Quantum Reservoir Computing
-作者：Zhi-Lei Zhang, Lianxiang Cui, C. P. Sun, Kohei Nakajima, Kazuyuki Aihara
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.24013v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 113：
-标题：Ultrafast Successive Control and Electrical Detection of Long-Lived Valley Polarization in Room-Temperature Germanium
-作者：Ami M. Shirai, Yuta Murotani, Shunta Aoki, Shunsuke A. Sato, Tomohiro Fujimoto, Kota Aikyo, Changsu Kim, Hidefumi Akiyama, Jun Yoshinobu, Toshiya Ideue, Ryusuke Matsunaga
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23998v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 114：
-标题：Light-Induced Odd-Parity h-Wave Magnetism in Penrose Quasicrystals
-作者：Yiming Li, Huaqing Huang
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23992v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 115：
-标题：Molecular Kondo Ball Based on an Endohedral Fullerene
-作者：Xiangyang Li, Xiao Zheng, Bing Wang, Jinlong Yang
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23918v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 116：
-标题：Vague rotational symmetry at BCC [100] twist grain boundaries
-作者：Kai Jiang, Suining Xiong
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23892v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 117：
-标题：Local spin constraints and symmetry in single-$Q$ spiral magnets
-作者：Lasin Thaivalappil, Shin-Ming Huang
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23882v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 118：
-标题：Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data
-作者：Daiki Shintani, Shigeru Iwase, Jun Oshiki, Kohei Shinohara, Nontawat Charoenphakdee, Makoto Hiramatsu, Yuta Tsuboi, Yusuke Asano, Hirotaka Akita, Yong-Bin Zhuang, So Takamoto, Chikashi Shinagawa
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23873v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 119：
-标题：Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating
-作者：Daosheng Tang, Rui Hu, Chen Ning, Bingyang Cao
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23866v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 120：
-标题：Implementation of LDA+Gutzwiller with Newton's method
-作者：Jian Zhang, Ming-Feng Tian, Guang-Xi Jin, Yuan-Feng Xu, Xi Dai
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23842v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 121：
-标题：Materials representations organize transferable supervision for chemical extrapolation
-作者：Enda Xiao, Terumasa Tadano
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23837v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 122：
-标题：Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to Device and Block-Level PPA
-作者：Jianxiang Jin, Haoran Lu, Yihan Luo, Yanbang Chu, Yibo Zhang, Jingru Jiang, Yuji Cheng, Wanyue Peng, Xun Jiang, Feiyu Teng, Kairang Guo, Ming Li, Yibo Lin, Runsheng Wang, Heng Wu, Ru Huang
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23806v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 123：
-标题：Addressable transversal CCZ gates on almost good quantum LDPC codes and nearly optimal magic state protocols
-作者：Shi Jie Samuel Tan, Guanyu Zhu
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23762v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 124：
-标题：Physics-Guided Crystal Structure Elucidation from Powder X-Ray Diffraction with Universal Machine-Learning Interatomic Potentials
-作者：Yunsung Lim, Seungwoo Hwang, Seungwu Han
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23760v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 125：
-标题：Hierarchical coupling in tripartite van der Waals cavity magnonics for a low-loss and tunable coupled-mode Hamiltonian
-作者：Taehee Kim, Sunghun Park, Byoung-moo Ann, Sung Jin An, Seung-Bo Shim, Hakseong Kim, Haydar Sahin, Zhuo Bin Siu, Mansoor B. A. Jalil, Youngwook Kim, Thomas K. M. Graham, Brian B. Zhou, Myung-Joong Hwang, Yaroslav M. Blanter, Jungpil Seo, Hee Chul Park, Minkyung Jung
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23756v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 126：
-标题：XANES-Guided Molecular Structure Generation via Conditional Diffusion and Forward Spectral Prediction
-作者：Yu Fujikata, Teruyasu Mizoguchi
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23725v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 127：
-标题：Fast closed-loop STEM navigation using vision-language models with typed decisions
-作者：Shuichiro Ozawa, Izumi Takahara, Fumihiko Uesugi, Teruyasu Mizoguchi
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23698v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 128：
-标题：Two-Dimensional Ferromagnetic Weyl Half-Semimetal
-作者：Yu-Yang Zhao, Chen-Hao Lv, Qing-Bo Liu, Wen-Neng Zhao, Xin-Yi Chen, Lun Xiong
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23688v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 129：
-标题：Structured Extraction of Diffraction Data from Covalent Organic Frameworks
-作者：Shenghan Gao, Zhiling Zheng
-发布日期：2026-11-18
-arXiv链接：https://arxiv.org/pdf/2611.23680v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 130：
-标题：Layer-dependent $s^{\pm}$ superconducting pairing and influence of incipient bands in La$\_3$Ni$\_2$O$\_7$ thin films on real LaSrAlO$\_4$ substrate
-作者：Yang Zhang, Philip M. Dee, Ling-Fang Lin, Adriana Moreo, Thomas A. Maier, Elbio Dagotto
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23595v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 131：
-标题：Machine-learned acceleration of earthquake sequence simulations
-作者：Reo Yanagi, Taeho Kim, Kaushik Bhattacharya, Nadia Lapusta
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23561v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 132：
-标题：Fe$^{2+}$:forsterite Qubit System
-作者：Dishaanth S. Pillai, G. M. Wysin
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23550v2
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 133：
-标题：Application of Pretrained Universal Machine Learning Force-Fields for Phase Transitions Prediction in ZrO2
-作者：Rajan Khadka, Axel van de Walle, Patrick Tepesch
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23535v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 134：
-标题：Predicting solid-state reaction onset temperatures from high-throughput pairwise synthesis
-作者：Lauren N. Walters, Matthew J. McDermott, Bernardus Rendy, Yuxing Fei, Gerbrand Ceder
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23527v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 135：
-标题：Quantum resources and the onset of the quantum Monte Carlo sign problem
-作者：Naga Dileep Varikuti, Leela Ganesh Chandra Lakkaraju, Philipp Hauke
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23514v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 136：
-标题：Real-space electrostatic sums through truncation error analysis
-作者：Chuin Wei Tan, William C. Witt, Boris Kozinsky
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23510v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 137：
-标题：Synthesis-route-dependent state selection in the frustrated spinel ZnV$\_2$O$\_4$
-作者：Jem Pitcairn, Jennifer N. Graham, Jacob L. Brownlee, Shruti Chakravarty, Joya A. Cooley, Giorgia Confalonieri, A. Dominic Fortes, David W. Tam, J. Ross Stewart, Lucy Clark
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23500v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 138：
-标题：Towards Cryogenic AI Hardware: Over 99% Precision In-Memory Computing at 4 K with 3-bit Ferroelectric Hf0.5Zr0.5O2 Capacitors
-作者：Ella Paasio, Simon Thomann, Rikhard Ranta, Ruhan Kartik, Sozaraj Rasappa, Andrea Padovani, Hussam Amrouch, Sayani Majumdar
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23489v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 139：
-标题：Efficient interlayer interactions in non-planar molecule/transition-metal dichalcogenide two-dimensional heterostructure
-作者：Johann Alvarez, Kamal Harrison, John Koptur-Palenchar, Miguel Gakiya-Teruya, Kenji Watanabe, Takashi Taniguchi, Michael Shatruk, Xiao-Xiao Zhang
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23435v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 140：
-标题：Analytical Interacting Tight-binding Model for Fractional Chern Insulators
-作者：Lexu Zhao, Jayden S. Chang, Awwab A. Azam, Jiabin Yu
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23409v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 141：
-标题：Towards Defect Engineering of Orbital Magnetoelectric Effects
-作者：João M. Alendouro Pinho, Henrique P. Veiga, Alessandro Veneri, Daniel Passos, Ivo Souza, Bruno Amorim, João M. Viana Parente Lopes, Aires Ferreira
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23405v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 142：
-标题：Real-Space Theory of Nonequilibrium Orbital Magnetization in Inhomogeneous Solids
-作者：João M. Alendouro Pinho, Henrique P. Veiga, Alessandro Veneri, Daniel Passos, Ivo Souza, Bruno Amorim, João M. Viana Parente Lopes, Aires Ferreira
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23404v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 143：
-标题：Trapped fermions frustrate multiterminal Josephson networks
-作者：Antonio Manesco, Karsten Flensberg
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23390v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 144：
-标题：Emergent Attraction and Competing Orders near the Van Hove Singularity in Rhombohedral $n$-layer Graphene
-作者：Jing-Yu Zhao, Yang-Zhi Chou, Sankar Das Sarma
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23232v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 145：
-标题：Expressivity of two-dimensional Gaussian fermion tensor network states
-作者：Pok Man Tam, William Musk, Zhehao Dai
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23227v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 146：
-标题：Local interference algorithms for observables in large random circuits
-作者：Philippe Suchsland, Brayden Ware, Vladislav D. Kurilovich, Vadim Smelyanskiy, Kostyantyn Kechedzhi
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23207v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 147：
-标题：Effect of superplastic deformation on the intergranular corrosion resistance of austenitic steel 321 with different types of UFG structure: A case of homogeneous and heterogeneous microstructure obtained by ECAP
-作者：A. V. Nokhrin, V. I. Kopylov, M. K. Chegurov, S. V. Shotin, C. V. Likhnitskii, N. V. Melekhin, D. A. Zotov, K. A. Rubtsova, O. E. Pirozhnikova, N. N. Berendeev, D. D. Kulagin
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23183v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 148：
-标题：Multiple Field-Induced Transitions, Magnetocaloric Response and Anisotropic Magnetotransport in Orthorhombic RAlGe (R = Dy, Ho)
-作者：Ram Kumar, D. S. Sokratov, P. Sobel, C. Mueller, D. E. Graf, J. Paglione
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23181v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 149：
-标题：Photon condensation driven by scalar spin chirality
-作者：Dimitrije Stepanenko, Daniel Loss, Mircea Trif
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23178v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 150：
-标题：Competing Magnetic Orders and Continuously Varying Exponents in $U(1)$ Spin Liquids
-作者：Vira Shyta, Flavio S. Nogueira
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23170v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 151：
-标题：Dynamics of a Single-Domain Dissipative Magnetic Gyroscope in Electric and Magnetic Fields
-作者：Y. B. Band, Igor Kuzmenko
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23167v2
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 152：
-标题：Localized corrosion resistance of ultrafine-grained austenitic steel 321 obtained by Rotary Swaging: The role of annealing conditions
-作者：A. V. Nokhrin, M. K. Chegurov, N. V. Melekhin, D. A. Zotov, V. I. Kopylov, A. N. Sysoev, K. A. Rubtsova
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23160v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 153：
-标题：Charge-transfer excitation drives cooperative phonon-assisted exciton self-trapping in NiPS$\_3$
-作者：Long Cheng, Alexander Holm Ohrt, Oliver Nagy, Yu Zhao, Chenyu Wang, Yaxian Wang, Sheng Meng, Guohui Li, Qinying Pan, Xingyu Huang, Sanshui Xiao, Sijie Zhang, Guoqian Liao, Yutong Li, Xuan Luo, Yuping Sun, Kaibo Zheng, Peter Uhd Jepsen, Binbin Zhou
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23131v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 154：
-标题：Hidden topological signatures in a van der Waals ferromagnet revealed by spin-resolved circular-dichroic photoemission
-作者：Jay R. Paudel, Federico Mazzola, Lidia A. Lapinski, Barun Ghosh, Valeria Rosa Rocha, Abigail M. Derrico, Nikola Maksimovic, Iulia Cojocariu, Daniel Baranowski, Christoph Klewe, Vitaliy Feyer, Ivana Vobornik, Claus M. Schneider, Giancarlo Panaccione, Arun Bansil, James G. Analytis, Alexander X. Gray
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.24468v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 155：
-标题：Spin and Orbital Angular Momentum Textures at Chiral Molecule-Metal Interfaces
-作者：Gyanu P. Kafle, Amos Afugu, Zhen-Fei Liu
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23029v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 156：
-标题：Indentation of pre-tensioned cortex-like fibre networks: tension, local stretching and the signature of defect architecture
-作者：Shubham Agarwal, Olivier Noël, Martin H. Müser
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23002v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 157：
-标题：Strange-Metal Magnetotransport without a Strange-Metal Ground State
-作者：Yongjun Ahn, Matteo Baggioli, Hyun-Sik Jeong, Keun-Young Kim
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22985v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 158：
-标题：Pair distribution function oscillations at electrostatically stabilized nanocrystal surfaces reflect nanocrystal lattice periodicity
-作者：Vivian R. K. Wall, Andrew Yang, Bryan A. Sanchez Monserrate, Ahhyun Jeong, Christian P. N. Tanner, Joshua Portner, John P. Davis, Tim B. van Driel, Burak Guzelturk, Gihan Kwon, Olaf J. Borkiewicz, David T. Limmer, Dmitri V. Talapin, Karena W. Chapman, Simon J. L. Billinge, Naomi S. Ginsberg
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22946v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 159：
-标题：Sobolev theory for the inverse problem of time-dependent density functional theory on the torus
-作者：Asbjørn Bækgaard Lauritsen, Mathieu Lewin, Jakob Oldenburg
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22942v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 160：
-标题：From quasiperiodic three-colour order on a triangular lattice to covalent carbon sheets
-作者：Chaoyu He
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22938v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 161：
-标题：Non-Invertible Quantum Cellular Automata I: Microscopic Definition of Non-Invertible Symmetries
-作者：Sahand Seifnashri, Shu-Heng Shao
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22928v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 162：
-标题：Electrical addressing of compensated magnetic order in artificial spin ice
-作者：Stéphane Nilsson, Lauren J. Riddiford, Emily Darwin, Hans J. Hug, Aleš Hrabec, Laura J. Heyderman
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22912v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 163：
-标题：Temperature Flips the Sign of the Hydrogen Response in Nanogranular Palladium Networks
-作者：Niclas Alkazaz, Robert Zierold, Patrick Huber
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22877v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 164：
-标题：Engineering third order absorbing exceptional points in multi-drive cavity magnonics for enhanced sensing
-作者：R. D. McKenzie, R. L. Stamps
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22875v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 165：
-标题：Structural Response to the Hidden Charge Order in Sr$\_3$Fe$\_2$O$\_7$
-作者：Darren C. Peets, Nikita D. Andriushin, Tobias Ritschel, Morgan C. Allison, Nikolai S. Pavlovskii, Anton A. Kulbakov, Alexandre Ivanov, Jose R. Linares Mardegan, Pablo J. Bereciartua, Sonia Francoual, Jochen Geck, Dmytro S. Inosov
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22864v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 166：
-标题：Engineering antiferromagnetic (LaVO3)m/(PrVO3)n superlattices
-作者：A. Benedit-Cardenas, G. Masset, M. Bugnet, M. Martirosyan, G. Steciuk, S. Migot, J. Ghanbaja, L. Pasquier, K. Dumesnil, Q. M. Ramasse, O. Copie
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22861v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 167：
-标题：AlCoCuFeNi High-Entropy Alloy Nanoparticle Melting and Solidification: A Classical Molecular Dynamics Simulation Study
-作者：O. I. Kushnerov
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22858v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 168：
-标题：Mechanically induced self-propagating reactions within the realm of mechanochemistry: Fundamentals, overview, in situ monitoring and perspectives
-作者：Imelda Octa Tampubolon, Matej Baláž
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22840v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 169：
-标题：Axion electrodynamics and the advection-diffusion structure of TEM modes in hollow-conductor waveguides
-作者：André H. Gomes
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22839v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 170：
-标题：Revisiting structured-light propagation in screw-dislocation geometries: Landau dynamics and gradient-induced polarization textures
-作者：Edilberto O. Silva
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22789v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 171：
-标题：From a High-T$\rm\_C$ Spin-Gapless Semiconductor to a Spin-Glass: The Role of Disorder in NiMnCrAl
-作者：Arka Patra, Tufan Roy, Nilofar Kurawle, Tamaghna Maitra, Souvik Banerjee, Mantu Modak, Shuvankar Gupta, Sudip Chakraborty, Soumya Bhowmik, Papri Dasgupta, Rajashri Urkude, Biplab Ghosh, D. Bhattacharyya, A. Sundaresan, Sudhindra Rayaprol, Masafumi Shirai, Chandan Mazumdar
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22784v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 172：
-标题：Canonical spin glass behavior and memory effects in van der Waals magnet (Fe0.55Ni0.45)3GaTe2
-作者：P. Biswal, Kakan Deb, Nitesh Kumar, D. Samal, Prabhat Mandal
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22781v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 173：
-标题：Performance limits and benchmarking of ideal 2D topological insulator field-effect transistors
-作者：Yosep Park, Jaeyoung Eom, Yeonghun Lee
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22779v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 174：
-标题：Interfacial electrostatics: From polar insulators to charged-layer metals
-作者：Edith Simmen, Nicholas C. Bristowe, Philippe Ghosez, Nicola A. Spaldin
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22776v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 175：
-标题：Universal scaling of brine migration in ice
-作者：Natanael Braos-d'Urso, Nicolas Bain, Bruno Issenmann, Sylvain Deville
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22765v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 176：
-标题：Altermagnetism-induced magneto-optical effects
-作者：Jun Ōiké, Robert Peters, Koki Shinada
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22750v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 177：
-标题：Thermal and Acoustic Measurements of Hybrid Bonding Stacks
-作者：Zirou Chen, Xinyan Xu, Zifeng Huang, Xufei Guo, Zhe Cheng
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22694v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 178：
-标题：VQkit: A Unified and Extensible Framework for VASP and Quantum ESPRESSO Pre- and Post-Processing
-作者：Rajkamal Anand, Seunghwan Kwon, Gun Jin Yun
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22664v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 179：
-标题：Domain walls of a spin-chirality ferroelectric as tunable quantum particles
-作者：Aleksandr Buzdakov, Atharva Hingane, Sergey Artyukhin
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22662v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 180：
-标题：Computational Modeling of Sublattice Magnetization in CoTb/Co/CoTb Magnetic Multilayer Nanojunctions Between Cobalt Leads
-作者：Sushita Sharma, Vinod Ashokan
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22644v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 181：
-标题：Prior-guided adaptive local refinement of foundation interatomic potentials
-作者：Yunlong Wang, Jianzhen Ma, Yusu Zhang, Jiahang Li, Qinqiu Cheng, Junjie Yuan, Wenrui Yan, Yucheng Zhang, Chen Yu, Weibin Chu, Hongxia Hao, Jielan Li
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22626v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 182：
-标题：What Do LLMs Use to Judge Synthesis Recipes? An Experimental Analysis on 240 Solid-State Syntheses
-作者：Derek van Tilborg, Laura-Bianca Pasca, Harry Sevi, Kyle Reeves, Thomas Loux, Aikaterini Flessa Savvidou, Varincka Jean-Gilles, Marilou Carouge, Joonatan E. M. Laulainen
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22623v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 183：
-标题：Targeted material doping to enable the formation and coherent propagation of Laser Induced Periodic Surface Structures (LIPSS): the ZnO paradigm
-作者：Gonzalo Gomez-Munoz, Rocio Ariza, Juan Francisco Ramos-Justicia, Fatima Cabello Pardos, Antonio Pablo Pérez-Marín, Jose Gonzalo, Belén Sotillo, Binbing Xia, Paloma Fernandez, Javier Solis
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22573v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 184：
-标题：First-order correction to the self-consistent harmonic approximation free energy: Impact on the negative thermal expansion and phonon dynamics in ScF$\_3$
-作者：Jincheng Yue, Manex Alkorta, Đorđe Dangić, Yue-Wen Fang, Ion Errea
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22538v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 185：
-标题：Preformed excitons in the excitonic density-wave state of monolayer 1$T'$-MoTe$\_2$
-作者：Fei Yang, Keyu Wei, Dekun Yang, Kenji Watanabe, Takashi Taniguchi, Yong Zhang, Xuefeng Wang, Fucong Fei, Fengqi Song, Binghai Yan, Xiaoxiang Xi, Junwei Liu
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22536v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 186：
-标题：Quantum Codes for Distributed Quantum Fault Sensing
-作者：Xiu-Hao Deng
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22530v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 187：
-标题：Solvent/Antisolvent-Driven Etching of 2D Layered Halide Perovskite Microcrystals toward Endo-Epitaxial Heterostructures
-作者：Ajeet Singh, Sudhir Kumar Saini, Hriday Kumar Pal, Cara Elisabeth Bradsher, Sirous Khabbaz Abkenar, Roman Krahne, Liberato Manna
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22529v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 188：
-标题：Koopmans spectral functionals for excitons in materials
-作者：Miki Bonacci, Edward Linscott, Julian Geiger, Nicola Marzari, Nicola Colonna
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22524v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 189：
-标题：Landscape index and its boundary correspondence in inhomogeneous chiral systems
-作者：Guo-Jian Qiao, Zhi-Lei Zhang, C. P. Sun
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22500v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 190：
-标题：Combined magnetic and structural transition state in first-principles calculations
-作者：Samare Rostami, Xavier Gonze
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22489v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 191：
-标题：Burgers vectors from Voronoi topology
-作者：Emanuel A. Lazar
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22488v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 192：
-标题：Orbital differentiation in a rare earth ion near half filling
-作者：D. W. Tam, Ø. S. Fjellvåg, B. Gonano, E. X. M. Trewick, M. Månsson
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22462v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 193：
-标题：Efficient Machine Learning Interatomic Potentials
-作者：Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22444v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 194：
-标题：Magnetic History and Field Sweep Rate Effects on Transformation Hysteresis in $\mathrm{Ni}\_{41}\mathrm{Co}\_{9}\mathrm{Mn}\_{31.5}\mathrm{Ga}\_{18.5}$
-作者：T. Kihara, T. Miyakawa, D. Imatomi, X. Xu, Y. Ishii, H. Hayashi, Y. H. Matsuda, Y. Adachi, T. Kanomata
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22442v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 195：
-标题：Assessment of electric-field-induced forces for bulk solids within the projector-augmented wave method
-作者：Peitao Liu, Martijn Marsman, Georg Kresse, Cesare Franchini
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22400v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 196：
-标题：Topological Timing of Bound States by Spacetime Mass Windings
-作者：Hamdi Barkaoui
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22357v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 197：
-标题：Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning
-作者：Sihan Liaing, Ji Zhang, Kehan Wang, Zihao Gao, Wei Ma, Yangang Wang, Zongguo Wang
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.23342v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 198：
-标题：Complex mobility edges from competing localization channels in non-Hermitian quasicrystals
-作者：Bing Shao, Weiwei Zhu, Longwen Zhou
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22336v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 199：
-标题：Mapping phase competition in GaAs under pressure and temperature
-作者：Sakshi Patel, Paras Patel, Prafulla K. Jha
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22332v1
-研究目的：[生成失败: API 调用失败: ]
-主要发现：[生成失败: API 调用失败: ]
----
-
-论文 200：
-标题：Supercell periodicity biases octahedral tilting and energetics in high-entropy perovskite oxides
-作者：Hanzo Tsubota, Wai Kian Tan, Hiroyuki Muto, Atsunori Matsuda, Tom Ichibha, Kenta Hongo, Ryo Maezono, Liangzhi Kou, Go Kawamura
-发布日期：2026-11-17
-arXiv链接：https://arxiv.org/pdf/2611.22313v1
 研究目的：[生成失败: API 调用失败: ]
 主要发现：[生成失败: API 调用失败: ]
 ---
